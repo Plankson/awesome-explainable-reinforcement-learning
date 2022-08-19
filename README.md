@@ -26,7 +26,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 ## <h2 id="Papers">Papers</h2>
 
-###  <h2 id="Survey">Survey</h2>
+### <h2 id="Survey">Survey</h2>
 
 - Explainable Reinforcement Learning: A Survey
   - E. Puiutta and E. Veith.  *CD-MAKE 2020*. [[paper]](https://arxiv.org/pdf/2005.06247.pdf)
