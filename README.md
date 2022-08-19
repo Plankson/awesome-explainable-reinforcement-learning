@@ -6,13 +6,13 @@ A list of awesome paper and code resources on explainable reinforcement learning
 
 - [Overview](#Overview)
 - [Surveys](#Surveys)
-- [Explainability in RL](#Explainability in RL)
-  - [Model Explaining](#Model Explaining)
-  - [Reward Explaining](#Reward Explaining)
-  - [State Explaining](#State Explaining)
-  - [Task Explaining](#Task Explaining)
+- [Explainability in RL](#Explainability-in-RL)
+  - [Model Explaining](#Model-Explaining)
+  - [Reward Explaining](#Reward-Explaining)
+  - [State Explaining](#State-Explaining)
+  - [Task Explaining](#Task-Explaining)
 
-- [Human knowledge for RL paradigm](#Human knowledge for RL paradigm)
+- [Human knowledge for RL paradigm](#Human-knowledge-for-RL-paradigm)
 
 ## Overview
 
