@@ -29,15 +29,15 @@ We review current explainable reinforcement learning framework and explainabilit
 ###  <h2 id="Survey">Survey</h2>
 
 - Explainable Reinforcement Learning: A Survey
-  - Erika Puiutta and Eric M.S.P. Veith.  *CD-MAKE 2020*. [[paper]](https://arxiv.org/pdf/2005.06247.pdf)
+  - E. Puiutta and E. Veith.  *CD-MAKE 2020*. [[paper]](https://arxiv.org/pdf/2005.06247.pdf)
 - A Survey on Interpretable Reinforcement Learning
-  - Claire Glanois, Paul Weng, Matthieu Zimmer, Dong Li, Tianpei Yang,  Jianye Hao and Wulong Liu.  *Arxiv 2021*. [[paper]](https://arxiv.org/pdf/2112.13112.pdf)
+  - C. Glanois, P. Weng, M. Zimmer, D. Li, T. Yang,  J. Hao and W. Liu.  *Arxiv 2021*. [[paper]](https://arxiv.org/pdf/2112.13112.pdf)
 - Explainable Reinforcement Learning for Broad-XAI: A Conceptual Framework and Survey
-  - Richard Dazeley, Peter Vamplew and Francisco Cruz. *Arxiv 2021*. [[paper]](https://arxiv.org/pdf/2108.09003)
+  - R. Dazeley, P. Vamplew and F.Cruz. *Arxiv 2021*. [[paper]](https://arxiv.org/pdf/2108.09003)
 - Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends
   - Lindsay Wells and Tomasz Bednarz.  *FRAI 2021*. [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2021.550030/full)
 - Explainability in deep reinforcement learning
-  - Alexandre Heuillet, Fabien Couthouis and Natalia Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
+  - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
 - Explainable Deep Reinforcement Learning: State of the Art and Challenges
-  - George Vouros.  *ACM 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
+  - G.Vouros.  *ACM 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
 
