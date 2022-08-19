@@ -6,7 +6,7 @@ A list of awesome paper and code resources on explainable reinforcement learning
 
 - [Overview](#Overview)
 - [Surveys](#Surveys)
-- [Explainability in RL](#XRL)
+- [Explainability in RL](#Explainability in RL)
   - [Model Explaining](#Model Explaining)
   - [Reward Explaining](#Reward Explaining)
   - [State Explaining](#State Explaining)
