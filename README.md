@@ -5,8 +5,8 @@ A list of awesome paper and code resources on explainable reinforcement learning
 ## Table of Contents
 
 - [Overview](#Overview)
-- [Papers](Papers)
-  - [Survey](Survey)
+- [Papers](#Papers)
+  - [Survey](#Survey)
 - 
 
 ## <h2 id="Overview"> Overview</h2>
@@ -39,5 +39,5 @@ We review current explainable reinforcement learning framework and explainabilit
 - Explainability in deep reinforcement learning
   - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
 - Explainable Deep Reinforcement Learning: State of the Art and Challenges
-  - G.Vouros.  *ACM 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
+  - G. Vouros.  *ACM 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
 
