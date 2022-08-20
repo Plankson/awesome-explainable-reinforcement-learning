@@ -142,15 +142,15 @@ We review current explainable reinforcement learning framework and explainabilit
 #### Reward Shaping
 
 - Ella: Exploration through learned language abstraction
-  - S. Mirchandani, S. Karamcheti and D. Sadigh.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/f6f154417c4665861583f9b9c4afafa2-Paper.pdf)
+  - S. Mirchandani, S. Karamcheti and D. Sadigh.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/f6f154417c4665861583f9b9c4afafa2-Paper.pdf)  [[code]](https://github.com/Stanford-ILIAD/ELLA)
 - Improving Human-Robot Interaction Through Explainable Reinforcement Learning
-  - A. Tabrez and B. Hayes.  *HRI 2019*.  [[paper]](http://www.bradhayes.info/papers/hripioneers19.pdf)
+  - A. Tabrez and B. Hayes.  *HRI 2019*.  [[paper]](http://www.bradhayes.info/papers/hripioneers19.pdf)  
 - SDRL: interpretable and data-efficient deep reinforcement learning leveraging symbolic planning
   - D. Lyu, F. Yang, B. Liu and S. Gustafson.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4153/4031)
 - Creativity of AI: Automatic Symbolic Option Discovery for Facilitating Deep Reinforcement Learning
   - M. Jin, Z. Ma, K. Jin, H. Zhuo, C. Chen and C. Yu.  *AAAI 2022*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20663/20422)
 - Tree-structured policy based progressive reinforcement learning for temporally language grounding in video
-  - J. Wu, G. Li, S. Liu and L. Lin.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)
+  - J. Wu, G. Li, S. Liu and L. Lin.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)  [[code]](https://github.com/WuJie1010/TSP-PRL)
 - Self-supervised attention-aware reinforcement learning
   - H. Wu, K. Khetarpal and D. Precup.  *AAAI 2021*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17235/17042)
 
@@ -165,46 +165,46 @@ We review current explainable reinforcement learning framework and explainabilit
 - Visual sparse Bayesian reinforcement learning: a framework for interpreting what an agent has learned
   - I. Mishra, G. Dao and M. Lee.  *SSCI 2018*.  [[paper]](https://webpages.charlotte.edu/mlee173/pdfs/adprl18.pdf)
 - Interestingness elements for explainable reinforcement learning: Understanding agents' capabilities and limitations
-  - P. Sequeira and M. Gervasio. *AI 2020*.  [[paper]](https://arxiv.org/pdf/1912.09007)
+  - P. Sequeira and M. Gervasio. *AI 2020*.  [[paper]](https://arxiv.org/pdf/1912.09007)  [[code]](https://paperswithcode.com/paper/interestingness-elements-for-explainable)
 - Collective explainable AI: Explaining cooperative strategies and agent contribution in multiagent reinforcement learning with shapley values
-  - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *CIM 2022*  [[paper]](https://arxiv.org/pdf/2110.01307)
+  - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *CIM 2022*  [[paper]](https://arxiv.org/pdf/2110.01307)  [[code]](https://github.com/fabien-couthouis/xai-in-rl)
 - Explainable ai in deep reinforcement learning models for power system emergency control
   - K. Zhang, J. Zhang, P. Xu, T. Gao and D. Gao.  *TCSS 2021*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/9506997)
 - Edge: Explaining deep reinforcement learning policies
-  - W. Guo, X. Wu, U. Khan and X. Xing.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/65c89f5a9501a04c073b354f03791b1f-Paper.pdf)
+  - W. Guo, X. Wu, U. Khan and X. Xing.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/65c89f5a9501a04c073b354f03791b1f-Paper.pdf)  [[code]](https://github.com/henrygwb/edge)
 
 #### Current Observation
 
 - Toward Interpretable Deep Reinforcement Learning with Linear Model U-Trees
-  - G. Liu, O. Schulte, W. Zhu and Q. Li.  *ECML PKDD 2018*.  [[paper]](https://arxiv.org/pdf/1807.05887)
+  - G. Liu, O. Schulte, W. Zhu and Q. Li.  *ECML PKDD 2018*.  [[paper]](https://arxiv.org/pdf/1807.05887)  [[code]](https://github.com/Guiliang/uTree_mimic_mountain_car)
 - Social attention for autonomous decision-making in dense traffic
-  - E. Leurent and J. Mercat.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1911.12250)
+  - E. Leurent and J. Mercat.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1911.12250)  [[code]](https://eleurent.github.io/social-attention/)
 - The sensory neuron as a transformer: Permutation-invariant neural networks for reinforcement learning
-  - Y. Tang and D. Ha.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/be3e9d3f7d70537357c67bb3f4086846-Paper.pdf)
+  - Y. Tang and D. Ha.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/be3e9d3f7d70537357c67bb3f4086846-Paper.pdf)  [[code]](https://paperswithcode.com/paper/the-sensory-neuron-as-a-transformer)
 - Towards better interpretability in deep q-networks
-  - R. Annasamy and K. Sycara.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4377/4255)
+  - R. Annasamy and K. Sycara.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/4377/4255)  [[code]](https://github.com/maraghuram/I-DQN)
 - Neuroevolution of self-interpretable agents
-  - Y. Tang, D. Nguyen and D Ha.  *GECCO 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377930.3389847)
+  - Y. Tang, D. Nguyen and D Ha.  *GECCO 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377930.3389847)  [[code]](https://paperswithcode.com/paper/neuroevolution-of-self-interpretable-agents)
 - Learn to interpret atari agents
-  - Z. Yang, S. Bai, L. Zhang and P. Torr.  *Arxiv 2018*. [[paper]](https://arxiv.org/pdf/1812.11276)
+  - Z. Yang, S. Bai, L. Zhang and P. Torr.  *Arxiv 2018*. [[paper]](https://arxiv.org/pdf/1812.11276)  [[code]](https://github.com/yz93/Learn-to-Interpret-Atari-Agents)
 - Deep reinforcement learning with stacked hierarchical attention for text-based games
-  - Y. Xu, M. Fang, L. Chen, Y. Du, J. Zhou and C. Zhang.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/bf65417dcecc7f2b0006e1f5793b7143-Paper.pdf)
+  - Y. Xu, M. Fang, L. Chen, Y. Du, J. Zhou and C. Zhang.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/bf65417dcecc7f2b0006e1f5793b7143-Paper.pdf)  [[code]](https://github.com/YunqiuXu/SHA-KG)
 - Visualizing and Understanding Atari Agents
-  - S. Greydanus, A. Koul, J. Dodge and A. Fern.  *ICML 2018*  [[paper]](http://proceedings.mlr.press/v80/greydanus18a/greydanus18a.pdf)
+  - S. Greydanus, A. Koul, J. Dodge and A. Fern.  *ICML 2018*  [[paper]](http://proceedings.mlr.press/v80/greydanus18a/greydanus18a.pdf)  [[code]](https://paperswithcode.com/paper/visualizing-and-understanding-atari-agents)
 - Transparency and Explanation in Deep Reinforcement Learning Neural Networks
-  - R. Iyer, Y. Li, H. Li, M. Lewis, R. Sundar, K. Sycara.  *AIES 2018*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278776)
+  - R. Iyer, Y. Li, H. Li, M. Lewis, R. Sundar, K. Sycara.  *AIES 2018*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278776)  [[code]](https://github.com/KDL-umass/saliency_maps)
 - Rise: Randomized input sampling for explanation of black-box models
-  - V. Petsiuk, A. Das and K. Saenko.  *Arxiv 2018*.  [[paper]](https://arxiv.org/pdf/1806.07421.pdf /)
+  - V. Petsiuk, A. Das and K. Saenko.  *Arxiv 2018*.  [[paper]](https://arxiv.org/pdf/1806.07421.pdf /)  [[code]](https://paperswithcode.com/paper/rise-randomized-input-sampling-for)
 - Alphastock: A buying-winners-and-selling-losers investment strategy using interpretable deep reinforcement attention networks
   - J. Wang, Y. Zhang, K. Tang, J. Wu and Z. Xiong.  *KDD 2019*.  [[paper]](https://arxiv.org/pdf/1908.02646)
 - Machine versus human attention in deep reinforcement learning tasks
   - S. Guo, R. Zhang, B. Liu, Y. Zhu, D. Ballard, M. Hayhoe and P. Stone.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d58e2f077670f4de9cd7963c857f2534-Paper.pdf)
 - Xgail: Explainable generative adversarial imitation learning for explainable human decision analysis
-  - M. Pan, W. Huang, Y. Li, X. Zhou and J. Luo.  *KDD 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403186)
+  - M. Pan, W. Huang, Y. Li, X. Zhou and J. Luo.  *KDD 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403186)  [[code]](https://github.com/paperpublicsource/xgail)
 - Training characteristic functions with reinforcement learning: Xai-methods play connect four
   - S. Waldchen, F. Huber and S. Pokutta.  *ICML 2022*.  [[paper]](https://proceedings.mlr.press/v162/waldchen22a/waldchen22a.pdf)
 - Unsupervised video object segmentation for deep reinforcement learning
-  - V. Goel, J. Weng and P. Poupart.  *NIPS 2018*.  [[paper]](https://proceedings.neurips.cc/paper/2018/file/96f2b50b5d3613adf9c27049b2a888c7-Paper.pdf)
+  - V. Goel, J. Weng and P. Poupart.  *NIPS 2018*.  [[paper]](https://proceedings.neurips.cc/paper/2018/file/96f2b50b5d3613adf9c27049b2a888c7-Paper.pdf)  [[code]](https://github.com/vik-goel/MOREL)
 - DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks
   - J. Wang, L. Gou, H. Shen and H. Yang.  *TVCG 2018*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/8454905/)
 
@@ -213,7 +213,7 @@ We review current explainable reinforcement learning framework and explainabilit
 - Contrastive explanations for reinforcement learning in terms of expected consequences
   - J. Waa, J. Diggelen, K. Bosch and M. Neerincx.  *Arxiv 2018*.  [[paper]](https://arxiv.org/pdf/1807.08706)
 - What did you think would happen? explaining agent behaviour through intended outcomes
-  - H. Yau, C. Russell and S. Hadfield.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/d5ab8dc7ef67ca92e41d730982c5c602-Paper.pdf)
+  - H. Yau, C. Russell and S. Hadfield.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/d5ab8dc7ef67ca92e41d730982c5c602-Paper.pdf)  [[code]](https://paperswithcode.com/paper/what-did-you-think-would-happen-explaining#code)
 - Weakly-supervised reinforcement learning for controllable behavior
   - L. Lee, B. Eysenbach, R. Salakhutdinov, S. Gu and C. Finn.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/1bd69c7df3112fb9a584fbd9edfc6c90-Paper.pdf)
 - Semantic Predictive Control for Explainable and Efficient Policy Learning
@@ -228,22 +228,22 @@ We review current explainable reinforcement learning framework and explainabilit
 #### Whole Top-down Structure
 
 - Hierarchical and Interpretable Skill Acquisition in Multi-task Reinforcement Learning
-  - T. Shu, C. Xiong and R. Socher.  *Arxiv 2017*.  [[paper]](https://arxiv.org/pdf/1712.07294)
+  - T. Shu, C. Xiong and R. Socher.  *ICLR 2018*.  [[paper]](https://arxiv.org/pdf/1712.07294)
 - A Boolean task algebra for reinforcement learning
-  - G. Nangue Tasse, S. James and B. Rosman.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/6ba3af5d7b2790e73f0de32e5c8c1798-Paper.pdf)
+  - G. Nangue Tasse, S. James and B. Rosman.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/6ba3af5d7b2790e73f0de32e5c8c1798-Paper.pdf)  [[code]](https://github.com/geraudnt/boolean_composition)
 
 #### Simple Task Division
 
 - Multi-task reinforcement learning with context-based representations
-  - S. Sodhani, A. Zhang and J. Pineau.  *NIPS 2021*.  [[paper]](http://proceedings.mlr.press/v139/sodhani21a/sodhani21a.pdf)
+  - S. Sodhani, A. Zhang and J. Pineau.  *NIPS 2021*.  [[paper]](http://proceedings.mlr.press/v139/sodhani21a/sodhani21a.pdf)  [[code]](https://paperswithcode.com/paper/multi-task-reinforcement-learning-with#code)
 - Language as an abstraction for hierarchical deep reinforcement learning
-  - Y. Jiang, S. Gu, K. Murphy and C.Finn.  *NIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/0af787945872196b42c9f73ead2565c8-Paper.pdf)
+  - Y. Jiang, S. Gu, K. Murphy and C.Finn.  *NIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/0af787945872196b42c9f73ead2565c8-Paper.pdf)  [[code]](https://paperswithcode.com/paper/language-as-an-abstraction-for-hierarchical#code)
 - SDRL: interpretable and data-efficient deep reinforcement learning leveraging symbolic planning
   - D. Lyu, F. Yang, B. Liu and S. Gustafson.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4153/4031)
 - Dot-to-dot: Explainable hierarchical reinforcement learning for robotic manipulation
   - B. Beyret, A. Shafti, A. Faisal.  *IROS 2019*.  [[paper]](https://arxiv.org/pdf/1904.06703)
 - Model primitives for hierarchical lifelong reinforcement learning
-  - B. Wu, J. Gupta and M. Kochenderfer.  *AAMAS 2020*.  [[paper]](https://arxiv.org/pdf/1903.01567)
+  - B. Wu, J. Gupta and M. Kochenderfer.  *AAMAS 2020*.  [[paper]](https://arxiv.org/pdf/1903.01567)  [[code]](https://github.com/sisl/MPHRL)
 
 
 
@@ -252,14 +252,14 @@ We review current explainable reinforcement learning framework and explainabilit
 - KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human Suboptimal Knowledge
   - P. Zhang, J. Hao, W. Wang, H. Tang, Y. Ma, Y. Duan and Y. Zheng.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2002.07418)
 - Using Natural Language for Reward Shaping in Reinforcement Learning
-  - P. Goyal, S. Niekum and R. Mooney.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1903.02020)
+  - P. Goyal, S. Niekum and R. Mooney.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1903.02020)  [[code]](https://github.com/prasoongoyal/rl-learn)
 - Leveraging Human Guidance for Deep Reinforcement Learning Tasks
   - R. Zhang, F. Torabi, L. Guan, D. Ballard and P. Stone.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1909.09906)
 - Widening the pipeline in human-guided reinforcement learning with explanation and context-aware data augmentation
   - L. Guan, M. Verma, S. Guo, R. Zhang and S. Kambhampati.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/b6f8dc086b2d60c5856e4ff517060392-Paper.pdf)
 - Textual Explanations for Self-Driving Vehicles
-  - J. Kim, A. Rohrbach, T. Darrell, J. Canny and Z. Akata.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)
+  - J. Kim, A. Rohrbach, T. Darrell, J. Canny and Z. Akata.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)  [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
 - In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video
   - Y. Li, M. Liu and J. Rehg.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf)
 - Ask Your Humans: Using Human Instructions to Improve Generalization in Reinforcement Learning
-  - V. Chen, A. Gupta, K. Marino.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2011.00517)
+  - V. Chen, A. Gupta, K. Marino.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2011.00517)  [[code]](https://github.com/valeriechen/ask-your-humans)
