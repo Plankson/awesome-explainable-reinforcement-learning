@@ -44,7 +44,7 @@ We review current explainable reinforcement learning framework and explainabilit
 - Explainability in deep reinforcement learning
   - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
 - Explainable Deep Reinforcement Learning: State of the Art and Challenges
-  - G. Vouros.  *ACM 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
+  - G. Vouros.  *CSUR 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
 
 
 
@@ -55,56 +55,56 @@ We review current explainable reinforcement learning framework and explainabilit
 #### Self-Explainable
 
 - Toward Interpretable Deep Reinforcement Learning with Linear Model U-Trees
-  - G. Liu, O. Schulte, W. Zhu and Q. Li.  *ECML PKDD 2018*.  [[paper]](https://arxiv.org/pdf/1807.05887)
+  - G. Liu, O. Schulte, W. Zhu and Q. Li.  *ECML PKDD 2018*.  [[paper]](https://arxiv.org/pdf/1807.05887)  [[code]](https://github.com/Guiliang/uTree_mimic_mountain_car)
 - Policy Search in a Space of Simple Closed-form Formulas: Towards Interpretability of Reinforcement Learning
   - F. Maes, R. Fonteneau, L. Wehenkel and D. Ernst.  *DS 2012*.  [[paper]](https://orbi.uliege.be/bitstream/2268/135635/1/Maes2012Ds.pdf)
 - Programmatically Interpretable Reinforcement Learning
-  - A. Verma, V. Murali, R. Singh, P. Kohli and S. Chaudhuri.  *ICML 2018*.  [[paper]](http://proceedings.mlr.press/v80/verma18a/verma18a.pdf)
+  - A. Verma, V. Murali, R. Singh, P. Kohli and S. Chaudhuri.  *ICML 2018*.  [[paper]](http://proceedings.mlr.press/v80/verma18a/verma18a.pdf)  [[code]](https://github.com/VAIBHAV-2303/PiRL)
 - Imitation-projected programmatic reinforcement learning
-  - A. Verma, H. Le, Y. Yue and S. Chaudhuri.  *NIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/5a44a53b7d26bb1e54c05222f186dcfb-Paper.pdf)
+  - A. Verma, H. Le, Y. Yue and S. Chaudhuri.  *NIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/5a44a53b7d26bb1e54c05222f186dcfb-Paper.pdf)  [[code]](https://bitbucket.org/averma8053/propel/src/master/)
 - Neurosymbolic transformers for multi-agent communication
-  - J. Inala, Y. Yang, J. Paulos, Y. Pu, O. Bastani, V. Kumar, M. Rinard and A. Solar-Lezama.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/9d740bd0f36aaa312c8d504e28c42163-Paper.pdf)
+  - J. Inala, Y. Yang, J. Paulos, Y. Pu, O. Bastani, V. Kumar, M. Rinard and A. Solar-Lezama.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/9d740bd0f36aaa312c8d504e28c42163-Paper.pdf)  [[code]](https://github.com/jinala/multi-agent-neurosym-transformers)
 - Learning to synthesize programs as interpretable and generalizable policies
-  - D. Trivedi, J. Zhang, S. Sun and J. Lim.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d37124c4c79f357cb02c655671a432fa-Paper.pdf)
+  - D. Trivedi, J. Zhang, S. Sun and J. Lim.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d37124c4c79f357cb02c655671a432fa-Paper.pdf)  [[code]](https://github.com/clvrai/leaps)
 - Interpretable policies for reinforcement learning by genetic programming
   - D. Hein, S. Udluft and T. Runkler.  *EAAI 2018*.  [[paper]](https://arxiv.org/pdf/1712.04170)
 - Generating interpretable reinforcement learning policies using genetic programming
   - D. Hein, S. Udluft and T. Runkler.  *GECCO 2019*.  [[paper]](https://dl.acm.org/doi/10.1145/3319619.3326755)
 - Symbolic Regression via Deep Reinforcement Learning Enhanced Genetic Programming Seeding
-  - T. Mundhenk, M. Landajuela, R. Glatt, C. Santiago, D. Faissol and B. Petersen.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d073bb8d0c47f317dd39de9c9f004e9d-Paper.pdf)
+  - T. Mundhenk, M. Landajuela, R. Glatt, C. Santiago, D. Faissol and B. Petersen.  *NIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d073bb8d0c47f317dd39de9c9f004e9d-Paper.pdf)  [[code]](https://github.com/brendenpetersen/deep-symbolic-optimization)
 - Towards Reinforcement Learning of Human Readable Policies
   - R. Akrour, D. Tateo and J. Peters.  *Workshop 2019*.  [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/RiadAkrour/decodeml2019.pdf)
 - Particle swarm optimization for generating interpretable fuzzy reinforcement learning policies
   - D. Hein, A. Hentschel,T Runkler and S Udluft.  *EAAI 2017*.  [[paper]](https://arxiv.org/pdf/1610.05984)
 - Neural Logic Reinforcement Learning
-  - Z. Jiang and S. Luo.  *ICML 2019*.  [[paper]](http://proceedings.mlr.press/v97/jiang19a/jiang19a.pdf)
+  - Z. Jiang and S. Luo.  *ICML 2019*.  [[paper]](http://proceedings.mlr.press/v97/jiang19a/jiang19a.pdf)  [[code]](https://github.com/ZhengyaoJiang/NLRL)
 - Inductive logic programming via differentiable deep neural logic networks
-  - A. Payani and F. Fekri.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1906.03523)
+  - A. Payani and F. Fekri.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1906.03523)  [[code]](https://github.com/apayani/ILP)
 - Incorporating relational background knowledge into reinforcement learning via differentiable inductive logic programming
-  - A. Payani and F. Fekri.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2003.10386)
+  - A. Payani and F. Fekri.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2003.10386)  [[code]](https://github.com/ling-k/RRL)
 - Optimization methods for interpretable differentiable decision trees applied to reinforcement learning
   - A. Silva, M. Gombolay, T. Killian, I. Jimenez and S. Son.  *AISTATS 2020*.  [[paper]](http://proceedings.mlr.press/v108/silva20a/silva20a.pdf)
 - Verifiable Reinforcement Learning via Policy Extraction
-  - O. Bastani, Y. Pu and A. Solar-Lezama.  *NIPS 2018*.  [[paper]](https://proceedings.neurips.cc/paper/2018/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf)
+  - O. Bastani, Y. Pu and A. Solar-Lezama.  *NIPS 2018*.  [[paper]](https://proceedings.neurips.cc/paper/2018/file/e6d8545daa42d5ced125a4bf747b3688-Paper.pdf)  [[code]](https://github.com/quantumiracle/Cascading-Decision-Tree)
 - MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning
-  - S. Milani, Z. Zhang, N. Topin, Z. Shi, C. Kamhoua, E. Papalexakis and F. Fang.  *Arxiv 2022*.  [[paper]](https://arxiv.org/pdf/2205.12449)
+  - S. Milani, Z. Zhang, N. Topin, Z. Shi, C. Kamhoua, E. Papalexakis and F. Fang.  *Arxiv 2022*.  [[paper]](https://arxiv.org/pdf/2205.12449)  [[code]](https://stephmilani.github.io/maviper/)
 - Iterative Bounding MDPs: Learning Interpretable Policies via Non-Interpretable Methods
   - N. Topin, S. Milani, F. Fang and M Veloso.  *AAAI 2021*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17192/16999)
 - Generation of policy-level explanations for reinforcement learning
   - N. Topin and M. Veloso.  *AAAi 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4097/3975)
 - A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
-  - S. Ross, G. Gordon and D. Bagnell.  *AISTATS 2011*.  [[paper]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)
+  - S. Ross, G. Gordon and D. Bagnell.  *AISTATS 2011*.  [[paper]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)  [[code]](https://paperswithcode.com/paper/a-reduction-of-imitation-learning-and)
 - Conservative q-improvement: Reinforcement learning for an interpretable decision-tree policy
-  - A. Roth, N. Topin, P. Jamshidi and M. Veloso.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1907.01180)
+  - A. Roth, N. Topin, P. Jamshidi and M. Veloso.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1907.01180)  [[code]](https://github.com/AMR-/Conservative-Q-Improvement)
 
 #### Explanation Generating
 
 - Counterfactual state explanations for reinforcement learning agents via generative deep learning
-  - M. Olson, R. Khanna, L. Neal, F. Li and W. Wong.  *AI 2021*.  [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0004370221000060)
+  - M. Olson, R. Khanna, L. Neal, F. Li and W. Wong.  *AI 2021*.  [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0004370221000060)  [[code]](https://github.com/mattolson93/counterfactual-state-explanations)
 - Generating high-quality explanations for navigation in partially-revealed environments
-  - G. Stein.  *NIPS2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/926ec030f29f83ce5318754fdb631a33-Paper.pdf)
+  - G. Stein.  *NIPS2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/926ec030f29f83ce5318754fdb631a33-Paper.pdf)  [[code]](https://github.com/rail-group/xai-nav-under-uncertainty-neurips2021)
 - Explainable Reinforcement Learning through a Causal Lens
-  - P. Madumal, T. Miller, L. Sonenberg and F. Vetere.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487)
+  - P. Madumal, T. Miller, L. Sonenberg and F. Vetere.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487)  [[code]](https://github.com/NinaPi/Lunar_Causal_Network)
 - Automated rationale generation: a technique for explainable AI and its effects on human perceptions
   - U. Ehsan, P. Tambwekar, L. Chan, B. Harrison and M. Riedl.  *IUI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3301275.3302316)
 - Autonomous self-explanation of behavior for interactive reinforcement learning agents
@@ -114,15 +114,15 @@ We review current explainable reinforcement learning framework and explainabilit
 - Improving Robot Controller Transparency Through Autonomous Policy Explanation
   - B. Hayes and J. Shah.  *HRI 2017*.  [[paper]](https://dspace.mit.edu/bitstream/handle/1721.1/116013/hri17.pdf?sequence=1&isAllowed=y)
 - Toward Policy Explanations for Multi-Agent Reinforcement Learning
-  - K. Boggess, S. Kraus and L. Feng.  *Arxiv 2022*.  [[paper]](https://arxiv.org/pdf/2204.12568)
+  - K. Boggess, S. Kraus and L. Feng.  *Arxiv 2022*.  [[paper]](https://arxiv.org/pdf/2204.12568)  [[code]](https://github.com/kjboggess/IJCAI2022/blob/main/MissionGifExample.gif)
 - Verifying Deep-RL-Driven Systems
   - Y. Kazak , C. Barrett , G. Katz and M. Schapira  *NetAI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3341216.3342218)
 - Neurosymbolic reinforcement learning with formally verified exploration
-  - G. Anderson, A. Verma, I. Dillig and S. Chaudhuri.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/448d5eda79895153938a8431919f4c9f-Paper.pdf)
+  - G. Anderson, A. Verma, I. Dillig and S. Chaudhuri.  *NIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/448d5eda79895153938a8431919f4c9f-Paper.pdf)  [[code]](https://github.com/gavlegoat/safe-learning)
 - An inductive synthesis framework for verifiable reinforcement learning
   - H. Zhu, Z. Xiong, S. Magill and S. Jagannathan.  *PLDI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - A CEGAR-Driven Training and Verification Framework for Safe Deep Reinforcement Learning
-  - P. Jin, J. Tian, D. Zhi, X. Wen and M. Zhang.  *CAV 2022*.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_10)
+  - P. Jin, J. Tian, D. Zhi, X. Wen and M. Zhang.  *CAV 2022*.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_10)  [[code]](https://github.com/aptx4869tjx/RL_verification)
 
 
 
@@ -133,11 +133,11 @@ We review current explainable reinforcement learning framework and explainabilit
 - Explainable reinforcement learning via reward decomposition
   - Z. Juozapaitis, A. Koul. A. Fern, M. Erwig and F. Doshi-Velez.  *IJCAI 2019*.  [[paper]](https://par.nsf.gov/servlets/purl/10159391)
 - Counterfactual multi-agent policy gradients
-  - J. Foerster, G. Farquhar, T. Afouras, N. Nardelli and S. Whiteson.  *AAAI 2018*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653)
+  - J. Foerster, G. Farquhar, T. Afouras, N. Nardelli and S. Whiteson.  *AAAI 2018*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653)  [[code]](https://paperswithcode.com/paper/counterfactual-multi-agent-policy-gradients#code)
 - Shapley Q-value: A local reward approach to solve global reward games
-  - J. Wang, Y. Zhang, T. Kim and Y. Gu.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6220/6076)
+  - J. Wang, Y. Zhang, T. Kim and Y. Gu.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6220/6076)  [[code]](https://paperswithcode.com/paper/rethink-global-reward-game-and-credit)
 - Shapley counterfactual credits for multi-agent reinforcement learning
-  - J. Li, K. Kuang, B. Wang, F. Liu, L. Chen, F. Wu and J. Xiao.  *KDD 2021*.  [[paper]](https://arxiv.org/pdf/2106.00285)
+  - J. Li, K. Kuang, B. Wang, F. Liu, L. Chen, F. Wu and J. Xiao.  *KDD 2021*.  [[paper]](https://arxiv.org/pdf/2106.00285)  
 
 #### Reward Shaping
 
