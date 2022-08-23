@@ -14,7 +14,7 @@ A list of awesome paper and code resources on explainable reinforcement learning
 
 - [Human knowledge for RL paradigm](#Human-knowledge-for-RL-paradigm)
 
-- [A summary of Explainable AI library](A-summary-of-Explainable-AI-library)
+- [A summary of Explainable AI library](#A-summary-of-Explainable-AI-library)
 
 ## Overview
 
