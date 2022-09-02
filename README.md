@@ -308,15 +308,16 @@ We review current explainable reinforcement learning framework and explainabilit
 
 As for completeness, we also list the library of explainable AI methods to tackle the balck box problem of AI methods. They can emhance the AI model with transparency and explainability.
 
-- [Aequitas](https://github.com/dssg/aequitas)
-- [Alibi Explain](https://github.com/SeldonIO/alibi)
-
-- [Captum ](https://github.com/pytorch/captum)
-- [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox)
-- [ELI5](https://github.com/TeamHG-Memex/eli5)
-- [InterpretML](https://github.com/interpretml/interpret/)
-- [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360)
-- [iModels](https://github.com/csinva/imodels)
-- [LIME](https://github.com/marcotcr/lime)
-- [SHAP](https://github.com/slundberg/shap)
-- [Skater](https://github.com/oracle/Skater)
+| Explainable AI library                                       |                         GitHub Stars                         |
+| ------------------------------------------------------------ | :----------------------------------------------------------: |
+| [Aequitas](https://github.com/dssg/aequitas)                 | [![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas?style=plastic)](https://github.com/dssg/aequitas/stargazers) |
+| [Alibi Explain](https://github.com/SeldonIO/alibi)           | [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi?style=plastic)](https://github.com/SeldonIO/alibi/stargazers) |
+| [Captum ](https://github.com/pytorch/captum)                 | [![GitHub stars](https://img.shields.io/github/stars/pytorch/captum?style=plastic)](https://github.com/pytorch/captum/stargazers) |
+| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | [![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=plastic)](https://github.com/yosinski/deep-visualization-toolbox/stargazers) |
+| [ELI5](https://github.com/TeamHG-Memex/eli5)                 | [![GitHub stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5)](https://github.com/TeamHG-Memex/eli5/stargazers) |
+| [InterpretML](https://github.com/interpretml/interpret/)     | [![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret?style=plastic)](https://github.com/interpretml/interpret/stargazers) |
+| [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | [![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360?style=plastic)](https://github.com/Trusted-AI/AIX360/stargazers) |
+| [iModels](https://github.com/csinva/imodels)                 | [![GitHub stars](https://img.shields.io/github/stars/csinva/imodels?style=plastic)](https://github.com/csinva/imodels/stargazers) |
+| [LIME](https://github.com/marcotcr/lime)                     | [![GitHub stars](https://img.shields.io/github/stars/marcotcr/lime?style=plastic)](https://github.com/marcotcr/lime/stargazers) |
+| [SHAP](https://github.com/slundberg/shap)                    | [![GitHub stars](https://img.shields.io/github/stars/slundberg/shap?style=plastic)](https://github.com/slundberg/shap/stargazers) |
+| [Skater](https://github.com/oracle/Skater)                   | [![GitHub stars](https://img.shields.io/github/stars/oracle/Skater?style=plastic)](https://github.com/oracle/Skater/stargazers) |
