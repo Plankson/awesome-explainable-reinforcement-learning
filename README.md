@@ -43,12 +43,16 @@ We review current explainable reinforcement learning framework and explainabilit
 
 - Explainable Reinforcement Learning for Broad-XAI: A Conceptual Framework and Survey
   - R. Dazeley, P. Vamplew and F.Cruz. *Arxiv 2021*.  [[paper]](https://arxiv.org/pdf/2108.09003)
+
 - Explainable AI and Reinforcement Learning—A Systematic Review of Current Approaches and Trends
   - Lindsay Wells and Tomasz Bednarz.  *FRAI 2021*.  [[paper]](https://www.frontiersin.org/articles/10.3389/frai.2021.550030/full)
+
 - Explainability in deep reinforcement learning
   - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
+
 - Explainable Deep Reinforcement Learning: State of the Art and Challenges
   - G. Vouros.  *CSUR 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
+
 
 
 
