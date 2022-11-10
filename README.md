@@ -56,7 +56,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 #### Self-**Explainable**
 
-- A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning
+- A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning 
   - S. Ross, G. Gordon and D. Bagnell.  *AISTATS 2011*.  [[paper]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)  [[code]](https://paperswithcode.com/paper/a-reduction-of-imitation-learning-and)
 
 - Policy Search in a Space of Simple Closed-form Formulas: Towards Interpretability of Reinforcement Learning
