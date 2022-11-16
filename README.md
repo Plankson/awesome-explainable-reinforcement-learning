@@ -1,8 +1,8 @@
 # Awesome Explainable Reinforcement Learning
 
-A list of selected paper and possible corresponding codes in our review paper **"A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges"** [[arXiv Version]](https://arxiv.org/abs/2211.06665).
+A list of selected paper and possible corresponding codes in our review paper **"A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges"**. [[arXiv Version]](https://arxiv.org/abs/2211.06665)
 
-*If you find there is a missed paper or a possible mistake in our survey, please feel free to email me or pull a request here. I am more than glad to receive your advice. Thanks!*
+*If you find there is a missed paper or a possible mistake in our survey, please feel free to email me or pull a request here.*
 
 ## Citation
 
