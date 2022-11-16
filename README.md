@@ -4,6 +4,8 @@ A list of selected paper and possible corresponding codes in our review paper **
 
 ## Citation
 
+If you find this survey useful for your research, please consider citing
+
 ```
 @inproceedings{qing2022XRLsurvey,
   title={A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges},
