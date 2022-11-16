@@ -95,7 +95,7 @@ We review current explainable reinforcement learning framework and explainabilit
 - Symbolic Regression via Deep Reinforcement Learning Enhanced Genetic Programming Seeding
   - T. Mundhenk, M. Landajuela, R. Glatt, C. Santiago, D. Faissol and B. Petersen.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d073bb8d0c47f317dd39de9c9f004e9d-Paper.pdf)  [[code]](https://github.com/brendenpetersen/deep-symbolic-optimization)
 - Discovering symbolic policies with deep reinforcement learning
-  - M. Landajuela, B. Petersen, S. Kim, C. Santiago, R. Glatt, T. Mundhenk, J. Pettit and D. Faissol.  *ICML 2021*.  [[paper]](http://proceedings.mlr.press/v139/landajuela21a/landajuela21a.pdf)  [[code]](https://www.github.com/brendenpetersen/ deep-symbolic-optimization)
+  - M. Landajuela, B. Petersen, S. Kim, C. Santiago, R. Glatt, T. Mundhenk, J. Pettit and D. Faissol.  *ICML 2021*.  [[paper]](http://proceedings.mlr.press/v139/landajuela21a/landajuela21a.pdf)  [[code]](https://www.github.com/brendenpetersen/deep-symbolic-optimization)
 - Iterative Bounding MDPs: Learning Interpretable Policies via Non-Interpretable Methods
   - N. Topin, S. Milani, F. Fang and M Veloso.  *AAAI 2021*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17192/16999)
 - MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning
