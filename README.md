@@ -189,7 +189,7 @@ We review current explainable reinforcement learning framework and explainabilit
 - Transparency and Explanation in Deep Reinforcement Learning Neural Networks
   - R. Iyer, Y. Li, H. Li, M. Lewis, R. Sundar, K. Sycara.  *AIES 2018*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278776)  [[code]](https://github.com/KDL-umass/saliency_maps)
 - Rise: Randomized input sampling for explanation of black-box models
-  - V. Petsiuk, A. Das and K. Saenko.  *Arxiv 2018*.  [[paper]](https://arxiv.org/pdf/1806.07421.pdf /)  [[code]](https://paperswithcode.com/paper/rise-randomized-input-sampling-for)
+  - V. Petsiuk, A. Das and K. Saenko.  *Arxiv 2018*.  [[paper]](https://arxiv.org/pdf/1806.07421)  [[code]](https://paperswithcode.com/paper/rise-randomized-input-sampling-for)
 - Unsupervised video object segmentation for deep reinforcement learning
   - V. Goel, J. Weng and P. Poupart.  *NeurIPS 2018*.  [[paper]](https://proceedings.neurips.cc/paper/2018/file/96f2b50b5d3613adf9c27049b2a888c7-Paper.pdf)  [[code]](https://github.com/vik-goel/MOREL)
 - DQNViz: A Visual Analytics Approach to Understand Deep Q-Networks
