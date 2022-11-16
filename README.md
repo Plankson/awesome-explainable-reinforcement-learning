@@ -1,6 +1,17 @@
 # Awesome Explainable Reinforcement Learning
 
-A list of awesome paper and code resources on explainable reinforcement learning (XRL). Inspired by [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
+A list of selected paper and possible corresponding codes in our review paper **"A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges"** [[arXiv Version]](https://arxiv.org/abs/2211.06665). Inspired by [Awesome-Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [awesome-transfer-learning](https://github.com/artix41/awesome-transfer-learning), [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) and [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision).
+
+## Citation
+
+```
+@inproceedings{qing2022XRLsurvey,
+  title={A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges},
+  author={Yunpeng Qing and Shunyu Liu and Jie Song and Mingli Song},
+  journal={arXiv preprint arXiv:2211.06665},
+  year={2022}
+}
+```
 
 ## Table of Contents
 
