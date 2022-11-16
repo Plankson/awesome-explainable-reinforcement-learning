@@ -2,7 +2,7 @@
 
 A list of selected paper and possible corresponding codes in our review paper **"A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges"**. [[arXiv Version]](https://arxiv.org/abs/2211.06665)
 
-*If you find there is a missed paper or a possible mistake in our survey, please feel free to email me or pull a request here.*
+*If you find there is a missed paper or a possible mistake in our survey, please feel free to email me or pull a request here. I am more than glad to receive your advice. Thanks!*
 
 ## Citation
 
@@ -29,7 +29,7 @@ If you find this survey useful for your research, please consider citing
 
 - [Human knowledge for RL paradigm](#Human-knowledge-for-RL-paradigm)
 
-- [A summary of Explainable AI library](#A-summary-of-Explainable-AI-library)
+- [Explainable AI Library](#A-summary-of-Explainable-AI-library)
 
 ## Overview
 
@@ -286,7 +286,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 
 
-## A summary of Explainable AI library
+## Explainable AI Library
 
 As for completeness, we also list the library of explainable AI methods to tackle the balck box problem of AI methods. They can emhance the AI model with transparency and explainability.
 
