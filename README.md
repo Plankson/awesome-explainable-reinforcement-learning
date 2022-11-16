@@ -21,7 +21,7 @@ If you find this survey useful for your research, please consider citing
 
 - [Overview](#Overview)
 - [Surveys](#Surveys)
-- [Explainable RL](#Explainability-in-RL)
+- [Explainability in RL](#Explainability-in-RL)
   - [Model Explaining](#Model-Explaining)
   - [Reward Explaining](#Reward-Explaining)
   - [State Explaining](#State-Explaining)
@@ -65,7 +65,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 
 
-## Explainable RL
+## Explainability in RL
 
 ### Model Explaining
 
