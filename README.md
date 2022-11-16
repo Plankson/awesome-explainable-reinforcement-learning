@@ -9,7 +9,7 @@ A list of selected paper and possible corresponding codes in our review paper **
 If you find this survey useful for your research, please consider citing
 
 ```
-@inproceedings{qing2022XRLsurvey,
+@article{qing2022XRLsurvey,
   title={A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges},
   author={Yunpeng Qing and Shunyu Liu and Jie Song and Mingli Song},
   journal={arXiv preprint arXiv:2211.06665},
