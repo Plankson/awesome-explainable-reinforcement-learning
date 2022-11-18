@@ -98,7 +98,7 @@ We review current explainable reinforcement learning framework and explainabilit
 - Conservative q-improvement: Reinforcement learning for an interpretable decision-tree policy
   - A. Roth, N. Topin, P. Jamshidi and M. Veloso.  *Arxiv 2019*.  [[paper]](https://arxiv.org/pdf/1907.01180)  [[code]](https://github.com/AMR-/Conservative-Q-Improvement)
 - Generation of policy-level explanations for reinforcement learning
-  - N. Topin and M. Veloso.  *AAAi 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4097/3975)
+  - N. Topin and M. Veloso.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4097/3975)
 - Incorporating relational background knowledge into reinforcement learning via differentiable inductive logic programming
   - A. Payani and F. Fekri.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2003.10386)  [[code]](https://github.com/ling-k/RRL)
 - Optimization methods for interpretable differentiable decision trees applied to reinforcement learning
