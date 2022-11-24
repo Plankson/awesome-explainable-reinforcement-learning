@@ -11,7 +11,7 @@ If you find this survey useful for your research, please consider citing
 ```
 @article{qing2022XRLsurvey,
   title={A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges},
-  author={Yunpeng Qing and Shunyu Liu and Jie Song and Mingli Song},
+  author={Qing, Yunpeng and Liu, Shunyu and Song, Jie and Song, Mingli},
   journal={arXiv preprint arXiv:2211.06665},
   year={2022}
 }
