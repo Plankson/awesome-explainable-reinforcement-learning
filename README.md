@@ -41,7 +41,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 - Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
 - Reward Explaining: reconstructs reward function towards an explainable one $r'_t$  and makes it possible to see how the goal influences the agent
-- State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_t)$.
+- State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_{t'})$.
 - Task Explaining: gets an architectural level explainability in complex environments by multilevel agents, the high-level agent schedule low-level agents by the subgoal signal $g_t$ which could be utilized for explanations.
 
 ​	To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic.
@@ -101,6 +101,8 @@ We review current explainable reinforcement learning framework and explainabilit
   - N. Topin and M. Veloso.  *AAAI 2019*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/4097/3975)
 - Incorporating relational background knowledge into reinforcement learning via differentiable inductive logic programming
   - A. Payani and F. Fekri.  *Arxiv 2020*.  [[paper]](https://arxiv.org/pdf/2003.10386)  [[code]](https://github.com/ling-k/RRL)
+- Evolutionary learning of interpretable decision trees
+  - LL. Custode and G. Iacca.  *Arxiv 2020*.  [[paper]](https://arxiv.org/abs/2012.07723)  [[code]](https://gitlab.com/leocus/ge_q_dts)
 - Optimization methods for interpretable differentiable decision trees applied to reinforcement learning
   - A. Silva, M. Gombolay, T. Killian, I. Jimenez and S. Son.  *AISTATS 2020*.  [[paper]](http://proceedings.mlr.press/v108/silva20a/silva20a.pdf)
 - Neurosymbolic transformers for multi-agent communication
