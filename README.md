@@ -303,5 +303,6 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | [![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360?style=plastic)](https://github.com/Trusted-AI/AIX360/stargazers) |
 | [iModels](https://github.com/csinva/imodels)                 | [![GitHub stars](https://img.shields.io/github/stars/csinva/imodels?style=plastic)](https://github.com/csinva/imodels/stargazers) |
 | [LIME](https://github.com/marcotcr/lime)                     | [![GitHub stars](https://img.shields.io/github/stars/marcotcr/lime?style=plastic)](https://github.com/marcotcr/lime/stargazers) |
+| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | [![GitHub stars](https://img.shields.io/github/stars/salesforce/OmniXAI?style=plastic)](https://github.com/salesforce/OmniXAI/stargazers) |
 | [SHAP](https://github.com/slundberg/shap)                    | [![GitHub stars](https://img.shields.io/github/stars/slundberg/shap?style=plastic)](https://github.com/slundberg/shap/stargazers) |
 | [Skater](https://github.com/oracle/Skater)                   | [![GitHub stars](https://img.shields.io/github/stars/oracle/Skater?style=plastic)](https://github.com/oracle/Skater/stargazers) |
