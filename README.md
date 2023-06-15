@@ -299,10 +299,10 @@ As for completeness, we also list the library of explainable AI methods to tackl
 
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| [Aequitas](https://github.com/dssg/aequitas)                 | [![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas?style=plastic)](https://github.com/dssg/aequitas/stargazers) |
-| [Alibi Explain](https://github.com/SeldonIO/alibi)           | [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi?style=plastic)](https://github.com/SeldonIO/alibi/stargazers) |
-| [Captum ](https://github.com/pytorch/captum)                 | [![GitHub stars](https://img.shields.io/github/stars/pytorch/captum?style=plastic)](https://github.com/pytorch/captum/stargazers) |
-| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | [![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox?style=plastic)](https://github.com/yosinski/deep-visualization-toolbox/stargazers) |
+| [Aequitas](https://github.com/dssg/aequitas)                 | [![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social&label=Star)](https://github.com/dssg/aequitas/stargazers) |
+| [Alibi Explain](https://github.com/SeldonIO/alibi)           | [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social&label=Star)](https://github.com/SeldonIO/alibi/stargazers) |
+| [Captum ](https://github.com/pytorch/captum)                 | [![GitHub stars](https://img.shields.io/github/stars/pytorch/captum.svg?style=social&label=Star)](https://github.com/pytorch/captum/stargazers) |
+| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | [![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg?style=social&label=Star)](https://github.com/yosinski/deep-visualization-toolbox/stargazers) |
 | [ELI5](https://github.com/TeamHG-Memex/eli5)                 | [![GitHub stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5)](https://github.com/TeamHG-Memex/eli5/stargazers) |
 | [InterpretML](https://github.com/interpretml/interpret/)     | [![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret?style=plastic)](https://github.com/interpretml/interpret/stargazers) |
 | [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | [![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360?style=plastic)](https://github.com/Trusted-AI/AIX360/stargazers) |
