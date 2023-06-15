@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2211.06665-b31b1b.svg)](https://arxiv.org/abs/2211.06665)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Awesome XRL](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
-![Star](https://img.shields.io/github/stars/Plankson/awesome-explainable-reinforcement-learning)
+
 A list of selected paper and possible corresponding codes in our review paper [A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges](https://arxiv.org/abs/2211.06665).
 
 *If you find there is a missed paper or a possible mistake in our survey, please feel free to email me (<qingyunpeng@zju.edu.cn>) or pull a request here. I am more than glad to receive your advice. Thanks!*
@@ -300,18 +300,18 @@ As for completeness, we also list the library of explainable AI methods to tackl
 
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| [Aequitas](https://github.com/dssg/aequitas)                 | ![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) |
-| [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social) |
-| [Captum](https://github.com/pytorch/captum)                 | ![GitHub stars](https://img.shields.io/github/stars/pytorch/captum.svg?style=social) |
-| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg?style=social) |
-| [ELI5](https://github.com/TeamHG-Memex/eli5)                 | ![GitHub stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social) |
-| [InterpretML](https://github.com/interpretml/interpret/)     | ![GitHub stars](https://img.shields.io/github/stars/interpretml/interpret.svg?style=social) |
-| [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | ![GitHub stars](https://img.shields.io/github/stars/Trusted-AI/AIX360.svg?style=social) |
-| [iModels](https://github.com/csinva/imodels)                 | ![GitHub stars](https://img.shields.io/github/stars/csinva/imodels.svg?style=social) |
-| [LIME](https://github.com/marcotcr/lime)                     | ![GitHub stars](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social) |
-| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![GitHub stars](https://img.shields.io/github/stars/salesforce/OmniXAI.svg?style=social)|
-| [SHAP](https://github.com/slundberg/shap)                    | ![GitHub stars](https://img.shields.io/github/stars/slundberg/shap.svg?style=social) |
-| [Skater](https://github.com/oracle/Skater)                   | ![GitHub stars](https://img.shields.io/github/stars/oracle/Skater.svg?style=social)|
+| [Aequitas](https://github.com/dssg/aequitas)                 | ![stars](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) |
+| [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social) |
+| [Captum](https://github.com/pytorch/captum)                 | ![stars](https://img.shields.io/github/stars/pytorch/captum.svg?style=social) |
+| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg?style=social) |
+| [ELI5](https://github.com/TeamHG-Memex/eli5)                 | ![stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social) |
+| [InterpretML](https://github.com/interpretml/interpret/)     | ![stars](https://img.shields.io/github/stars/interpretml/interpret.svg?style=social) |
+| [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | ![stars](https://img.shields.io/github/stars/Trusted-AI/AIX360.svg?style=social) |
+| [iModels](https://github.com/csinva/imodels)                 | ![stars](https://img.shields.io/github/stars/csinva/imodels.svg?style=social) |
+| [LIME](https://github.com/marcotcr/lime)                     | ![stars](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social) |
+| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![stars](https://img.shields.io/github/stars/salesforce/OmniXAI.svg?style=social)|
+| [SHAP](https://github.com/slundberg/shap)                    | ![stars](https://img.shields.io/github/stars/slundberg/shap.svg?style=social) |
+| [Skater](https://github.com/oracle/Skater)                   | ![stars](https://img.shields.io/github/stars/oracle/Skater.svg?style=social)|
 
 
 ## Starchart
