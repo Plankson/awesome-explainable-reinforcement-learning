@@ -4,6 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2211.06665-b31b1b.svg)](https://arxiv.org/abs/2211.06665)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Awesome XRL](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
+![Star](https://img.shields.io/github/stars/Plankson/awesome-explainable-reinforcement-learning)
 
 A list of selected paper and possible corresponding codes in our review paper [A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges](https://arxiv.org/abs/2211.06665).
 
@@ -297,7 +298,6 @@ We review current explainable reinforcement learning framework and explainabilit
 ## Explainable AI Library
 
 As for completeness, we also list the library of explainable AI methods to tackle the balck box problem of AI methods. They can emhance the AI model with transparency and explainability.
-![Star](https://img.shields.io/github/stars/Plankson/awesome-explainable-reinforcement-learning)
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
 | [Aequitas](https://github.com/dssg/aequitas)                 | ![Star](https://img.shields.io/github/stars/dssg/aequitas) |
