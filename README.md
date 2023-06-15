@@ -43,7 +43,7 @@ We review current explainable reinforcement learning framework and explainabilit
 
 <img src="Fig\categorize.png" alt="1" style="zoom: 60%;" />
 
-​	In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: inner logic inference of agent and goal influence in action-taking. $a_t,r_t,s_t$ refer to the action, reward and states at time $t$;  The red parts in these diagrams are the explainable parts.
+In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: inner logic inference of agent and goal influence in action-taking. $a_t,r_t,s_t$ refer to the action, reward and states at time $t$;  The red parts in these diagrams are the explainable parts.
 
 - Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
 - Reward Explaining: reconstructs reward function towards an explainable one $r'_t$  and makes it possible to see how the goal influences the agent
