@@ -312,3 +312,8 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![GitHub stars](https://img.shields.io/github/stars/salesforce/OmniXAI.svg?style=social)|
 | [SHAP](https://github.com/slundberg/shap)                    | ![GitHub stars](https://img.shields.io/github/stars/slundberg/shap.svg?style=social) |
 | [Skater](https://github.com/oracle/Skater)                   | ![GitHub stars](https://img.shields.io/github/stars/oracle/Skater.svg?style=social)|
+
+
+## Starchart
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Plankson/awesome-explainable-reinforcement-learning&Date)](https://star-history.com/#Plankson/awesome-explainable-reinforcement-learning&Date)
