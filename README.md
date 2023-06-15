@@ -4,7 +4,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2211.06665-b31b1b.svg)](https://arxiv.org/abs/2211.06665)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Awesome XRL](https://img.shields.io/badge/Awesome-XRL-blue)](https://github.com/topics/awesome)
-![Star](https://img.shields.io/github/Stars/Plankson/awesome-explainable-reinforcement-learning)
+![Star](https://img.shields.io/github/stars/Plankson/awesome-explainable-reinforcement-learning)
 
 A list of selected paper and possible corresponding codes in our review paper [A Survey on Explainable Reinforcement Learning: Concepts, Algorithms, Challenges](https://arxiv.org/abs/2211.06665).
 
@@ -300,7 +300,7 @@ As for completeness, we also list the library of explainable AI methods to tackl
 
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| [Aequitas](https://github.com/dssg/aequitas)                 | [![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social&label=Star)](https://github.com/dssg/aequitas) |
+| [Aequitas](https://github.com/dssg/aequitas)                 | [![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas)](https://github.com/dssg/aequitas) |
 | [Alibi Explain](https://github.com/SeldonIO/alibi)           | [![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social&label=Star)](https://github.com/SeldonIO/alibi) |
 | [Captum ](https://github.com/pytorch/captum)                 | [![GitHub stars](https://img.shields.io/github/stars/pytorch/captum.svg?style=social&label=Star)](https://github.com/pytorch/captum) |
 | [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | [![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg?style=social&label=Star)](https://github.com/yosinski/deep-visualization-toolbox) |
