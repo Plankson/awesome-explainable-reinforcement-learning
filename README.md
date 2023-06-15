@@ -297,21 +297,21 @@ We review current explainable reinforcement learning framework and explainabilit
 ## Explainable AI Library
 
 As for completeness, we also list the library of explainable AI methods to tackle the balck box problem of AI methods. They can emhance the AI model with transparency and explainability.
-
+![Star](https://img.shields.io/github/stars/Plankson/awesome-explainable-reinforcement-learning)
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| [Aequitas](https://github.com/dssg/aequitas)                 | ![stars](https://img.shields.io/github/stars/dssg/aequitas.svg?style=social) |
-| [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg?style=social) |
-| [Captum](https://github.com/pytorch/captum)                 | ![stars](https://img.shields.io/github/stars/pytorch/captum.svg?style=social) |
-| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg?style=social) |
-| [ELI5](https://github.com/TeamHG-Memex/eli5)                 | ![stars](https://img.shields.io/github/stars/TeamHG-Memex/eli5.svg?style=social) |
-| [InterpretML](https://github.com/interpretml/interpret/)     | ![stars](https://img.shields.io/github/stars/interpretml/interpret.svg?style=social) |
-| [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | ![stars](https://img.shields.io/github/stars/Trusted-AI/AIX360.svg?style=social) |
-| [iModels](https://github.com/csinva/imodels)                 | ![stars](https://img.shields.io/github/stars/csinva/imodels.svg?style=social) |
-| [LIME](https://github.com/marcotcr/lime)                     | ![stars](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social) |
-| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![stars](https://img.shields.io/github/stars/salesforce/OmniXAI.svg?style=social)|
-| [SHAP](https://github.com/slundberg/shap)                    | ![stars](https://img.shields.io/github/stars/slundberg/shap.svg?style=social) |
-| [Skater](https://github.com/oracle/Skater)                   | ![stars](https://img.shields.io/github/stars/oracle/Skater.svg?style=social)|
+| [Aequitas](https://github.com/dssg/aequitas)                 | ![Star](https://img.shields.io/github/stars/dssg/aequitas) |
+| [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![Star](https://img.shields.io/github/stars/SeldonIO/alibi) |
+| [Captum](https://github.com/pytorch/captum)                 | ![Star](https://img.shields.io/github/stars/pytorch/captum) |
+| [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![Star](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox) |
+| [ELI5](https://github.com/TeamHG-Memex/eli5)                 | ![Star](https://img.shields.io/github/stars/TeamHG-Memex/eli5) |
+| [InterpretML](https://github.com/interpretml/interpret/)     | ![Star](https://img.shields.io/github/stars/interpretml/interpret) |
+| [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | ![Star](https://img.shields.io/github/stars/Trusted-AI/AIX360) |
+| [iModels](https://github.com/csinva/imodels)                 | ![Star](https://img.shields.io/github/stars/csinva/imodels.svg) |
+| [LIME](https://github.com/marcotcr/lime)                     | ![Star](https://img.shields.io/github/stars/marcotcr/lime) |
+| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![Star](https://img.shields.io/github/stars/salesforce/OmniXAI)|
+| [SHAP](https://github.com/slundberg/shap)                    | ![Star](https://img.shields.io/github/stars/slundberg/shap) |
+| [Skater](https://github.com/oracle/Skater)                   | ![Star](https://img.shields.io/github/stars/oracle/Skater)|
 
 
 ## Starchart
