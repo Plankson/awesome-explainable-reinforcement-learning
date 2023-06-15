@@ -317,3 +317,4 @@ As for completeness, we also list the library of explainable AI methods to tackl
 ## Starchart
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Plankson/awesome-explainable-reinforcement-learning&Date)](https://star-history.com/#Plankson/awesome-explainable-reinforcement-learning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kaixindelele/ChatPaper&type=Date)](https://star-history.com/#kaixindelele/ChatPaper&Date)
