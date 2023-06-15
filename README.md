@@ -310,4 +310,4 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | [LIME](https://github.com/marcotcr/lime)                     | [![GitHub stars](https://img.shields.io/github/stars/marcotcr/lime.svg?style=social&label=Star)](https://github.com/marcotcr/lime) |
 | [OmniXAI](https://github.com/salesforce/OmniXAI)                     | [![GitHub stars](https://img.shields.io/github/stars/salesforce/OmniXAI.svg?style=social&label=Star)](https://github.com/salesforce/OmniXAI) |
 | [SHAP](https://github.com/slundberg/shap)                    | [![GitHub stars](https://img.shields.io/github/stars/slundberg/shap.svg?style=social&label=Star)](https://github.com/slundberg/shap) |
-| [Skater](https://github.com/oracle/Skater)                   | [![GitHub stars](https://img.shields.io/github/stars/oracle/Skater.svg?style=social&label=Star)](https://github.com/oracle/Skater) |
+| [Skater](https://github.com/oracle/Skater)                   | ![GitHub stars](https://img.shields.io/github/stars/oracle/Skater.svg) |
