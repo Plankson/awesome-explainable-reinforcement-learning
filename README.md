@@ -40,7 +40,7 @@ If you find this survey useful for your research, please consider citing
 
 We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: model-explaining, reward-explaining, state-explaining, task-explaining as shown below:
 
-<img src="Fig\Taxonomy.png" alt="1" style="zoom: 80%;" />
+<img src="Fig\categorize.png" alt="1" style="zoom: 80%;" />
 
 ​	In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: inner logic inference of agent and goal influence in action-taking. $a_t,r_t,s_t$ refer to the action, reward and states at time $t$;  The red parts in these diagrams are the explainable parts.
 
@@ -49,8 +49,8 @@ We review current explainable reinforcement learning framework and explainabilit
 - State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_{t'})$.
 - Task Explaining: gets an architectural level explainability in complex environments by multilevel agents, the high-level agent schedule low-level agents by the subgoal signal $g_t$ which could be utilized for explanations.
 
-​	To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic.
-
+​	To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and summerized in the next Figure. These literatures are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic. 
+<img src="Fig\Taxonomy.png" alt="1" style="zoom: 80%;" />
 
 
 ## Surveys
