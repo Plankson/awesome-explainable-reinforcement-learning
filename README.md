@@ -299,7 +299,7 @@ As for completeness, we also list the library of explainable AI methods to tackl
 
 | Explainable AI library                                       |                         GitHub Stars                         |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| [Aequitas](https://github.com/dssg/aequitas)                 | ![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas) |
+| [Aequitas](https://github.com/dssg/aequitas)                 | ![GitHub stars](https://img.shields.io/github/stars/dssg/aequitas.svg) |
 | [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![GitHub stars](https://img.shields.io/github/stars/SeldonIO/alibi.svg) |
 | [Captum](https://github.com/pytorch/captum)                 | ![GitHub stars](https://img.shields.io/github/stars/pytorch/captum.svg) |
 | [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![GitHub stars](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox.svg) |
