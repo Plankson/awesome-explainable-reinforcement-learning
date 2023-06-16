@@ -326,12 +326,12 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | [SHAP](https://github.com/slundberg/shap)                    | ![Star](https://img.shields.io/github/stars/slundberg/shap) |
 | [Skater](https://github.com/oracle/Skater)                   | ![Star](https://img.shields.io/github/stars/oracle/Skater)|
 
-## Contributors
+<!-- ## Contributors
 
 <a href="https://github.com/Plankson/awesome-explainable-reinforcement-learning/contributors">
   <img src="https://contrib.rocks/image?repo=plankson/awesome-explainable-reinforcement-learning" />
 </a>
-
+ -->
 ## Show your support
 
 Please ⭐️ this repository if this project helped you!
