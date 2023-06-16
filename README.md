@@ -39,9 +39,7 @@ If you find this survey useful for your research, please consider citing
 ## Overview
 
 We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: model-explaining, reward-explaining, state-explaining, task-explaining as shown below:
-<div align="center">
-<img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/categorize.png" width="80%">
-</div>
+
 
 In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: inner logic inference of agent and goal influence in action-taking. $a_t,r_t,s_t$ refer to the action, reward and states at time $t$;  The red parts in these diagrams are the explainable parts.
 
@@ -52,9 +50,10 @@ In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: 
 
 To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and summerized in the next Figure. These literatures are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic. 
 
-![image](https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/Taxonomy.png)
 
-
+<div align="center">
+<img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/Taxonomy.png" width="80%">
+</div>
 
 
 ## Surveys
