@@ -36,21 +36,24 @@ If you find this survey useful for your research, please consider citing
 
 - [Explainable AI Library](#A-summary-of-Explainable-AI-library)
 
-## Overview
+## ✨ Overview
 
-We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: model-explaining, reward-explaining, state-explaining, task-explaining as shown below:
+- [x] **📖 RL paradigm-based Explainable RL Taxonomy**
+- [x] **👓 Review of human knowledge-based RL explainability**
+- [x] **🚀 List of Current XRL research literatures and codes links** 
+<!-- We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: model-explaining, reward-explaining, state-explaining, task-explaining as shown below: -->
 
 <div align="center">
-<img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/categorize.png" width="80%">
+<img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/categorize.png" width="60%">
 </div>
 
-In the Figure above, $e_\pi$ and $e_g$ denotes for two aspects of explanations: inner logic inference of agent and goal influence in action-taking. $a_t,r_t,s_t$ refer to the action, reward and states at time $t$;  The red parts in these diagrams are the explainable parts.
-
-- Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
+The Figure above illustrate how to enhance explainability to different part of RL paradigm, which include model(agent), reward, state and the task itself.
+<!-- - Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
 - Reward Explaining: reconstructs reward function towards an explainable one $r'_t$  and makes it possible to see how the goal influences the agent
 - State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_{t'})$.
 - Task Explaining: gets an architectural level explainability in complex environments by multilevel agents, the high-level agent schedule low-level agents by the subgoal signal $g_t$ which could be utilized for explanations.
-
+ -->
+ 
 To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and summerized in the next Figure. These literatures are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic. 
 
 
@@ -59,7 +62,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 </div>
 
 
-## Surveys
+## 📝 Surveys
 
 - Explainable Reinforcement Learning: A Survey
   - E. Puiutta and E. Veith.  *CD-MAKE 2020*.  [[paper]](https://arxiv.org/pdf/2005.06247.pdf)
@@ -280,7 +283,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 
 
-## Human knowledge for RL paradigm
+## 🤖️ Human knowledge for RL paradigm
 
 - Textual Explanations for Self-Driving Vehicles
   - J. Kim, A. Rohrbach, T. Darrell, J. Canny and Z. Akata.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)  [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
@@ -299,7 +302,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 
 
-## Explainable AI Library
+## 🏠 Explainable AI Library
 
 As for completeness, we also list the library of explainable AI methods to tackle the balck box problem of AI methods. They can emhance the AI model with transparency and explainability.
 | Explainable AI library                                       |                         GitHub Stars                         |
@@ -318,8 +321,13 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | [Skater](https://github.com/oracle/Skater)                   | ![Star](https://img.shields.io/github/stars/oracle/Skater)|
 
 
+## Show your support
+
+Please ⭐️ this repository if this project helped you!
+
+
 ## Starchart
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Plankson/awesome-explainable-reinforcement-learning&Date)](https://star-history.com/#Plankson/awesome-explainable-reinforcement-learning&Date)
 
-**[⬆ back to top](#table of contents)**
+**[⬆ back to top](#table-of-contents)**
