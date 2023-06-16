@@ -306,14 +306,14 @@ As for completeness, we also list the library of explainable AI methods to tackl
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
 | [Aequitas](https://github.com/dssg/aequitas)                 | ![Star](https://img.shields.io/github/stars/dssg/aequitas) |
 | [Alibi Explain](https://github.com/SeldonIO/alibi)           | ![Star](https://img.shields.io/github/stars/SeldonIO/alibi) |
-| [Captum](https://github.com/pytorch/captum)                 | ![Star](https://img.shields.io/github/stars/pytorch/captum) |
+| [Captum](https://github.com/pytorch/captum)                  | ![Star](https://img.shields.io/github/stars/pytorch/captum) |
 | [DeepVis Toolbox](https://github.com/yosinski/deep-visualization-toolbox) | ![Star](https://img.shields.io/github/stars/yosinski/deep-visualization-toolbox) |
 | [ELI5](https://github.com/TeamHG-Memex/eli5)                 | ![Star](https://img.shields.io/github/stars/TeamHG-Memex/eli5) |
 | [InterpretML](https://github.com/interpretml/interpret/)     | ![Star](https://img.shields.io/github/stars/interpretml/interpret) |
 | [IBM AI Explainability 360](https://github.com/Trusted-AI/AIX360) | ![Star](https://img.shields.io/github/stars/Trusted-AI/AIX360) |
 | [iModels](https://github.com/csinva/imodels)                 | ![Star](https://img.shields.io/github/stars/csinva/imodels.svg) |
 | [LIME](https://github.com/marcotcr/lime)                     | ![Star](https://img.shields.io/github/stars/marcotcr/lime) |
-| [OmniXAI](https://github.com/salesforce/OmniXAI)                     | ![Star](https://img.shields.io/github/stars/salesforce/OmniXAI)|
+| [OmniXAI](https://github.com/salesforce/OmniXAI)             | ![Star](https://img.shields.io/github/stars/salesforce/OmniXAI)|
 | [SHAP](https://github.com/slundberg/shap)                    | ![Star](https://img.shields.io/github/stars/slundberg/shap) |
 | [Skater](https://github.com/oracle/Skater)                   | ![Star](https://img.shields.io/github/stars/oracle/Skater)|
 
@@ -321,3 +321,5 @@ As for completeness, we also list the library of explainable AI methods to tackl
 ## Starchart
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Plankson/awesome-explainable-reinforcement-learning&Date)](https://star-history.com/#Plankson/awesome-explainable-reinforcement-learning&Date)
+
+**[⬆ back to top](#Awesome Explainable Reinforcement Learning)**
