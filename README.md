@@ -28,7 +28,7 @@ If you find this survey useful for your research, please consider citing
 - [Overview](#Overview)
 - [Surveys](#Surveys)
 - [Explainability in RL](#Explainability-in-RL)
-  - [Model Explaining](#Model-Explaining)
+  - [Agent Model Explaining](#Agent Model-Explaining)
   - [Reward Explaining](#Reward-Explaining)
   - [State Explaining](#State-Explaining)
   - [Task Explaining](#Task-Explaining)
@@ -77,13 +77,14 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *KBS 2021*. [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0950705120308145)
 - Explainable Deep Reinforcement Learning: State of the Art and Challenges
   - G. Vouros.  *CSUR 2022*.  [[paper]](https://scholar.archive.org/work/tpfqi5iggnhybfgz7u6qsiwm5i/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3527448)
-
+- Explainable Reinforcement Learning: A Survey and Comparative Review
+  - S. Milani, N. Topin, M .Veloso and F. Fang. *CSUR 2023*. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3616864)
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Explainability in RL
 
-### Model Explaining
+### Agent Model Explaining
 
 #### Self-**Explainable**
 
@@ -137,14 +138,14 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 #### Explanation Generating
 
+- Explainable Reinforcement Learning through a Causal Lens
+  - P. Madumal, T. Miller, L. Sonenberg and F. Vetere.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487)  [[code]](https://github.com/NinaPi/Lunar_Causal_Network)
 - Counterfactual state explanations for reinforcement learning agents via generative deep learning
   - M. Olson, R. Khanna, L. Neal, F. Li and W. Wong.  *AI 2021*.  [[paper]](https://www.sciencedirect.com/science/article/am/pii/S0004370221000060)  [[code]](https://github.com/mattolson93/counterfactual-state-explanations)
 - Generating high-quality explanations for navigation in partially-revealed environments
-  - G. Stein.  *NeurIPS2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/926ec030f29f83ce5318754fdb631a33-Paper.pdf)  [[code]](https://github.com/rail-group/xai-nav-under-uncertainty-neurips2021)
-- Explainable Reinforcement Learning through a Causal Lens
-  - P. Madumal, T. Miller, L. Sonenberg and F. Vetere.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487)  [[code]](https://github.com/NinaPi/Lunar_Causal_Network)
-- Automated rationale generation: a technique for explainable AI and its effects on human perceptions
-  - U. Ehsan, P. Tambwekar, L. Chan, B. Harrison and M. Riedl.  *IUI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3301275.3302316)
+  - G. Stein.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/926ec030f29f83ce5318754fdb631a33-Paper.pdf)  [[code]](https://github.com/rail-group/xai-nav-under-uncertainty-neurips2021)
+- Explainable Reinforcement Learning via a Causal World Model
+  - Z. Yu, J. Ruan and D. Xing.  *IJCAI 2023*.  [[paper]](https://arxiv.org/pdf/2305.02749)  [[code]](https://github.com/EaseOnway/Explainable-Causal-Reinforcement-Learning)
 - Autonomous self-explanation of behavior for interactive reinforcement learning agents
   - Y. Fukuchi, M. Osawa, H. Yamakawa and M. Imai.  *HAI 2017*.  [[paper]](https://arxiv.org/pdf/1810.08811)
 - Application of Instruction-Based Behavior Explanation to a Reinforcement Learning Agent with Changing Policy
@@ -152,7 +153,9 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - Improving Robot Controller Transparency Through Autonomous Policy Explanation
   - B. Hayes and J. Shah.  *HRI 2017*.  [[paper]](https://dspace.mit.edu/bitstream/handle/1721.1/116013/hri17.pdf?sequence=1&isAllowed=y)
 - Toward Policy Explanations for Multi-Agent Reinforcement Learning
-  - K. Boggess, S. Kraus and L. Feng.  *arXiv 2022*.  [[paper]](https://arxiv.org/pdf/2204.12568)  [[code]](https://github.com/kjboggess/IJCAI2022/blob/main/MissionGifExample.gif)
+  - K. Boggess, S. Kraus and L. Feng.  *IJCAI 2022*.  [[paper]](https://arxiv.org/pdf/2204.12568)  [[code]](https://github.com/kjboggess/IJCAI2022/blob/main/MissionGifExample.gif)
+- Explainable Multi-Agent Reinforcement Learning for Temporal Queries
+  - K. Boggess, S. Kraus and L. Feng.  *IJCAI 2023*.  [[paper]](https://arxiv.org/pdf/2305.10378)  [[code]](https://github.com/kjboggess/ijcai23)
 - Verifying Deep-RL-Driven Systems
   - Y. Kazak , C. Barrett , G. Katz and M. Schapira  *NetAI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3341216.3342218)
 - Neurosymbolic reinforcement learning with formally verified exploration
@@ -192,8 +195,8 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - J. Wu, G. Li, S. Liu and L. Lin.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6924/6778)  [[code]](https://github.com/WuJie1010/TSP-PRL)
 - Self-supervised attention-aware reinforcement learning
   - H. Wu, K. Khetarpal and D. Precup.  *AAAI 2021*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/17235/17042)
-
-
+- Dynamic Inverse Reinforcement Learning for Characterizing Animal Behavior
+  - Z. Ashwood, A. Jha and JW. Pillow.  *NeurIPS 2022*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bf215fa7fe70a38c5e967e59c44a99d0-Paper-Conference.pdf)  [[code]](https://github.com/markusmeister/Rosenberg-2021-Repository)
 **[⬆ back to top](#table-of-contents)**
 
 ### State Explaining
@@ -212,6 +215,11 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - W. Guo, X. Wu, U. Khan and X. Xing.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/65c89f5a9501a04c073b354f03791b1f-Paper.pdf)  [[code]](https://github.com/henrygwb/edge)
 - Collective explainable AI: Explaining cooperative strategies and agent contribution in multiagent reinforcement learning with shapley values
   - A. Heuillet, F. Couthouis and N. Díaz-Rodríguez.  *CIM 2022*  [[paper]](https://arxiv.org/pdf/2110.01307)  [[code]](https://github.com/fabien-couthouis/xai-in-rl)
+- ProtoX: Explaining a Reinforcement Learning Agent via Prototyping
+  - R. Ragodos, T. Wang, Q. Lin and X. Zhou.  *NeurIPS 2022*  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ae5bf4f35236240c9460e761c60fa53d-Paper-Conference.pdf)  [[code]](https://github.com/rrags/ProtoX)
+- Towards interpretable deep reinforcement learning with human-friendly prototypes
+  - EM. Kenny, M. Tucker and J. Shah.  *ICLR 2023*  [[paper]](https://openreview.net/pdf?id=hWwY_Jq0xsN)  [[code]](https://github.com/EoinKenny/Prototype-Wrapper-Network-ICLR23)
+
 
 #### Current Observation
 
@@ -247,7 +255,12 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - S. Guo, R. Zhang, B. Liu, Y. Zhu, D. Ballard, M. Hayhoe and P. Stone.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d58e2f077670f4de9cd7963c857f2534-Paper.pdf)
 - Training characteristic functions with reinforcement learning: Xai-methods play connect four
   - S. Waldchen, F. Huber and S. Pokutta.  *ICML 2022*.  [[paper]](https://proceedings.mlr.press/v162/waldchen22a/waldchen22a.pdf)
-
+- Look where you look! Saliency-guided Q-networks for generalization in visual Reinforcement Learning
+  - D. Bertoin, A. Zouitine, M. Zouitine and E. Rachelson.  *NeurIPS 2022*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c5ee2a08fbe743b171b0b4b2bdfd6f86-Paper-Conference.pdf)
+- Inherently explainable reinforcement learning in natural language
+  - X. Peng, M. Riedl and P. Ammanabrolu.  *NeurIPS 2022*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/672e44a114a41d5f34b97459877c083d-Paper-Conference.pdf)  [[code]](https://github.com/xiangyu-peng/HEX-RL)
+- Explaining reinforcement learning with shapley values
+  - D. Beechey, TMS. Smith and Ö. Şimşek  *ICML 2023*.  [[paper]](https://proceedings.mlr.press/v202/beechey23a/beechey23a.pdf) [[code]](https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023)
 #### Future Prediction
 
 - Contrastive explanations for reinforcement learning in terms of expected consequences
@@ -291,20 +304,35 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 ## 🤖️ Human knowledge for RL paradigm
 
-- Textual Explanations for Self-Driving Vehicles
-  - J. Kim, A. Rohrbach, T. Darrell, J. Canny and Z. Akata.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)  [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
-- In the Eye of Beholder: Joint Learning of Gaze and Actions in First Person Video
-  - Y. Li, M. Liu and J. Rehg.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yin_Li_In_the_Eye_ECCV_2018_paper.pdf)
-- Using Natural Language for Reward Shaping in Reinforcement Learning
-  - P. Goyal, S. Niekum and R. Mooney.  *arXiv 2019*.  [[paper]](https://arxiv.org/pdf/1903.02020)  [[code]](https://github.com/prasoongoyal/rl-learn)
-- Leveraging Human Guidance for Deep Reinforcement Learning Tasks
-  - R. Zhang, F. Torabi, L. Guan, D. Ballard and P. Stone.  *arXiv 2019*.  [[paper]](https://arxiv.org/pdf/1909.09906)
+### Fuzzy Controller Representing Human Knowledge
 - KoGuN: Accelerating Deep Reinforcement Learning via Integrating Human Suboptimal Knowledge
   - P. Zhang, J. Hao, W. Wang, H. Tang, Y. Ma, Y. Duan and Y. Zheng.  *arXiv 2020*.  [[paper]](https://arxiv.org/pdf/2002.07418)
+- Fuzzy Action-Masked Reinforcement Learning Behavior Planning for Highly Automated Drivin
+  - T. Rudolf, M. Gao, T. Schürmann, S. Schwab and S. Hohmann. *ICCAR*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/9782671) 
+- Efficient hierarchical policy network with fuzzy rules
+  - W. Shi, Y. Feng, H. Huang, Z. Liu, J. Huang and G. Cheng. *IJMLC*. [[paper]](https://link.springer.com/article/10.1007/s13042-021-01417-2)
+
+### Dense Reward on Human Command
+- Using Natural Language for Reward Shaping in Reinforcement Learning
+  - P. Goyal, S. Niekum and R. Mooney.  *arXiv 2019*.  [[paper]](https://arxiv.org/pdf/1903.02020)  [[code]](https://github.com/prasoongoyal/rl-learn)
+
+### Learn Mattered Features from Human Interactions
+- Textual Explanations for Self-Driving Vehicles
+  - J. Kim, A. Rohrbach, T. Darrell, J. Canny and Z. Akata.  *ECCV 2018*.  [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf)  [[code]](https://github.com/JinkyuKimUCB/explainable-deep-driving)
+- Local explanations for reinforcement learning
+  - R. Luss, A. Dhurandhar, M. Liu. *AAAI 2023*. [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26081)
+- Curricular Subgoals for Inverse Reinforcement Learning
+  - S. Liu, Y. Qing, S. Xu, H. Wu, J. Zhang, J. Cong, T. Chen, Y. Liu and M. Song. *arXiv*.  [[paper]](https://arxiv.org/pdf/2306.08232.pdf)  [[code]](https://github.com/Plankson/CSIRL)
+
+### Subtask Scheduling with Human Annotation
 - Ask Your Humans: Using Human Instructions to Improve Generalization in Reinforcement Learning
   - V. Chen, A. Gupta, K. Marino.  *arXiv 2020*.  [[paper]](https://arxiv.org/pdf/2011.00517)  [[code]](https://github.com/valeriechen/ask-your-humans)
-- Widening the pipeline in human-guided reinforcement learning with explanation and context-aware data augmentation
-  - L. Guan, M. Verma, S. Guo, R. Zhang and S. Kambhampati.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/b6f8dc086b2d60c5856e4ff517060392-Paper.pdf)
+- LISA: Learning interpretable skill abstractions from language
+  - D. Garg, S. Vaidyanath, K. Kim, J. Song and S. Ermon. *NeurIPS 2022*. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/883105b282fe15275991b411e6b200c5-Paper-Conference.pdf)
+- Towards Effective and Interpretable Human-Agent Collaboration in MOBA Games: A Communication Perspective
+  - Y. Gao, F. Liu, L. Wang, Z. Lian, W. Wang, S. Li, X. Wang, X. Zeng, R. Wang, J. Wang, Q. Fu, W. Yang, L. Huang and W. Liu. *ICLR 2023*. [[paper]](https://arxiv.org/pdf/2304.11632.pdf) [[code]](https://sites.google.com/view/mcc-demo)
+- Perceiving the world: Question-guided reinforcement learning for text-based games
+  - Y. Xu, M. Fang, L. Chen, Y. Du, JT. Zhou and C. Zhang.  *ACL 2022*.  [[paper]](https://arxiv.org/pdf/2204.09597.pdf)  [[code]](https://github.com/YunqiuXu/QWA)
 
 
 **[⬆ back to top](#table-of-contents)**
