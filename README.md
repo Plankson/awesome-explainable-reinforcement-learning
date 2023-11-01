@@ -28,7 +28,7 @@ If you find this survey useful for your research, please consider citing
 - [Overview](#Overview)
 - [Surveys](#Surveys)
 - [Explainability in RL](#Explainability-in-RL)
-  - [Agent Model Explaining](#Agent Model-Explaining)
+  - [Agent Model Explaining](#Agent-Model-Explaining)
   - [Reward Explaining](#Reward-Explaining)
   - [State Explaining](#State-Explaining)
   - [Task Explaining](#Task-Explaining)
@@ -42,14 +42,14 @@ If you find this survey useful for your research, please consider citing
 - [x] **📖 RL paradigm-based Explainable RL Taxonomy**
 - [x] **👓 Review of human knowledge-based RL explainability**
 - [x] **🚀 List of Current XRL research literatures and codes links** 
-<!-- We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: model-explaining, reward-explaining, state-explaining, task-explaining as shown below: -->
+<!-- We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: agent model-explaining, reward-explaining, state-explaining, task-explaining as shown below: -->
 
 <div align="center">
 <img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/categorize.png" width="100%">
 </div>
 
 The Figure above illustrate how to enhance explainability to different part of RL paradigm, which include model(agent), reward, state and the task itself.
-<!-- - Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
+<!-- - Agent Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
 - Reward Explaining: reconstructs reward function towards an explainable one $r'_t$  and makes it possible to see how the goal influences the agent
 - State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_{t'})$.
 - Task Explaining: gets an architectural level explainability in complex environments by multilevel agents, the high-level agent schedule low-level agents by the subgoal signal $g_t$ which could be utilized for explanations.
@@ -84,7 +84,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 ## Explainability in RL
 
-### Agent Model Explaining
+### Agent Model-Explaining
 
 #### Self-**Explainable**
 
