@@ -202,6 +202,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - M. Jin, Z. Ma, K. Jin, H. Zhuo, C. Chen and C. Yu.  *AAAI 2022*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/20663/20422)
 - Dynamic Inverse Reinforcement Learning for Characterizing Animal Behavior
   - Z. Ashwood, A. Jha and JW. Pillow.  *NeurIPS 2022*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/bf215fa7fe70a38c5e967e59c44a99d0-Paper-Conference.pdf)  [[code]](https://github.com/markusmeister/Rosenberg-2021-Repository)
+
 **[⬆ back to top](#table-of-contents)**
 
 ### State Explaining
