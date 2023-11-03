@@ -113,7 +113,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - Imitation-projected programmatic reinforcement learning
   - A. Verma, H. Le, Y. Yue and S. Chaudhuri.  *NeurIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/5a44a53b7d26bb1e54c05222f186dcfb-Paper.pdf)  [[code]](https://bitbucket.org/averma8053/propel/src/master/)
 - Towards Reinforcement Learning of Human Readable Policies
-  - R. Akrour, D. Tateo and J. Peters.  *ECML-PKDD$^*$ 2019*.  [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/RiadAkrour/decodeml2019.pdf)
+  - R. Akrour, D. Tateo and J. Peters.  *ECML-PKDD workshoop 2019*.  [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/RiadAkrour/decodeml2019.pdf)
 - Neural Logic Reinforcement Learning
   - Z. Jiang and S. Luo.  *ICML 2019*.  [[paper]](http://proceedings.mlr.press/v97/jiang19a/jiang19a.pdf)  [[code]](https://github.com/ZhengyaoJiang/NLRL)
 - Inductive logic programming via differentiable deep neural logic networks
@@ -153,7 +153,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - An inductive synthesis framework for verifiable reinforcement learning
   - H. Zhu, Z. Xiong, S. Magill and S. Jagannathan.  *PLDI 2019*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3314221.3314638)
 - Verifying Deep-RL-Driven Systems
-  - Y. Kazak, C. Barrett, G. Katz and M. Schapira  *SIgCOMM 2019$^*$*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3341216.3342218)
+  - Y. Kazak, C. Barrett, G. Katz and M. Schapira  *SIGCOMM 2019 workshop*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3341216.3342218)
 - Explainable Reinforcement Learning through a Causal Lens
   - P. Madumal, T. Miller, L. Sonenberg and F. Vetere.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5631/5487)  [[code]](https://github.com/NinaPi/Lunar_Causal_Network)
 - Neurosymbolic reinforcement learning with formally verified exploration
@@ -180,7 +180,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - Counterfactual multi-agent policy gradients
   - J. Foerster, G. Farquhar, T. Afouras, N. Nardelli and S. Whiteson.  *AAAI 2018*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653)  [[code]](https://paperswithcode.com/paper/counterfactual-multi-agent-policy-gradients#code)
 - Explainable reinforcement learning via reward decomposition
-  - Z. Juozapaitis, A. Koul. A. Fern, M. Erwig and F. Doshi-Velez.  *IJCAI 2019*.  [[paper]](https://par.nsf.gov/servlets/purl/10159391)
+  - Z. Juozapaitis, A. Koul. A. Fern, M. Erwig and F. Doshi-Velez.  *IJCAI/ECAI workshop 2019*.  [[paper]](https://par.nsf.gov/servlets/purl/10159391)
 - Shapley Q-value: A local reward approach to solve global reward games
   - J. Wang, Y. Zhang, T. Kim and Y. Gu.  *AAAI 2020*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/6220/6076)  [[code]](https://paperswithcode.com/paper/rethink-global-reward-game-and-credit)
 - Shapley counterfactual credits for multi-agent reinforcement learning
