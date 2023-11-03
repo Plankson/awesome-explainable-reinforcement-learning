@@ -22,8 +22,8 @@ If you find this survey useful for your research, please consider citing
   year={2022}
 }
 ```
-## 📰 News
-- [x] *2023.11.01* 🔥 We have revised the latest version of the paper and uploaded the newly published papers from 2022 to 2023.
+## 🔥 News
+- [x] *2023.11.01:* We have updated our review paper with the latest revisions and incorporated newly published research from 2022 to 2023.
 
 ## Table of Contents
 
@@ -43,21 +43,25 @@ If you find this survey useful for your research, please consider citing
 
 - [x] **📖 RL paradigm-based Explainable RL Taxonomy**
 - [x] **👓 Review of human knowledge-based RL explainability**
-- [x] **🚀 List of Current XRL research literatures and codes links** 
+- [x] **🚀 List of Current XRL research literatures and codes links**
+
+      
 <!-- We review current explainable reinforcement learning framework and explainability of human knowledge-based reinforcement learning framework. We creatively propose a new taxonomy for existing explainable reinforcement learning based on reinforcement learning paradigm. Specifically, we divide existing explainable reinforcement learning methods into four categories: agent model-explaining, reward-explaining, state-explaining, task-explaining as shown below: -->
+
+In this survey, we provide a comprehensive review of existing works on eXplainable Reinforcement Learning (XRL) and introduce a new taxonomy where prior works are clearly categorized into agent model-explaining, reward-explaining, state-explaining, and task-explaining methods. We also review and highlight RL methods that conversely leverage human knowledge to promote learning efficiency and performance of agents while this kind of method is often ignored in XRL field. 
 
 <div align="center">
 <img src="https://github.com/plankson/awesome-explainable-reinforcement-learning/blob/main/Fig/categorize.png" width="100%">
 </div>
 
-The Figure above illustrate how to enhance explainability to different part of RL paradigm, which include model(agent), reward, state and the task itself.
+<!-- The Figure above illustrate how to enhance explainability to different part of RL paradigm, which include model(agent), reward, state and the task itself. -->
 <!-- - Agent Model Explaining: trains the agent to be explainable by having understandable logic operation in its inner structure
 - Reward Explaining: reconstructs reward function towards an explainable one $r'_t$  and makes it possible to see how the goal influences the agent
 - State Explaining: adds a submodule for introspection to quantify the influences of different state features towards the decision-making as $w(s_{t'})$.
 - Task Explaining: gets an architectural level explainability in complex environments by multilevel agents, the high-level agent schedule low-level agents by the subgoal signal $g_t$ which could be utilized for explanations.
  -->
  
-To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and summerized in the next Figure. These literatures are categorize into our taxonomy. For each paper, we provide the soure file and the project code if the paper has source code and the code is pubilic. 
+To know more about existing XRL framework and our taxonomy, the existing XRL papers within different typs are listed below and summerized in the next Figure. These literatures are categorize into our taxonomy. For each paper, we also include a link to its open-source code if available.
 
 
 <div align="center">
