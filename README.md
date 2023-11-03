@@ -113,7 +113,7 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - Imitation-projected programmatic reinforcement learning
   - A. Verma, H. Le, Y. Yue and S. Chaudhuri.  *NeurIPS 2019*.  [[paper]](https://proceedings.neurips.cc/paper/2019/file/5a44a53b7d26bb1e54c05222f186dcfb-Paper.pdf)  [[code]](https://bitbucket.org/averma8053/propel/src/master/)
 - Towards Reinforcement Learning of Human Readable Policies
-  - R. Akrour, D. Tateo and J. Peters.  *ECML-PKDD workshoop 2019*.  [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/RiadAkrour/decodeml2019.pdf)
+  - R. Akrour, D. Tateo and J. Peters.  *ECML-PKDD workshop 2019*.  [[paper]](https://www.ias.informatik.tu-darmstadt.de/uploads/Team/RiadAkrour/decodeml2019.pdf)
 - Neural Logic Reinforcement Learning
   - Z. Jiang and S. Luo.  *ICML 2019*.  [[paper]](http://proceedings.mlr.press/v97/jiang19a/jiang19a.pdf)  [[code]](https://github.com/ZhengyaoJiang/NLRL)
 - Inductive logic programming via differentiable deep neural logic networks
