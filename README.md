@@ -252,12 +252,11 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 - Neuroevolution of self-interpretable agents
   - Y. Tang, D. Nguyen and D Ha.  *GECCO 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3377930.3389847)  [[code]](https://paperswithcode.com/paper/neuroevolution-of-self-interpretable-agents)
 - Deep reinforcement learning with stacked hierarchical attention for text-based games
-  - Y. Xu, M. Fang, L. Chen, Y. Du, J. Zhou and C. Zhang.  *NeurIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/bf65417dcecc7f2b0006e1f5793b7143-Paper.pdf)  [[code]]
+  - Y. Xu, M. Fang, L. Chen, Y. Du, J. Zhou and C. Zhang.  *NeurIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/bf65417dcecc7f2b0006e1f5793b7143-Paper.pdf)  [[code]](https://github.com/YunqiuXu/SHA-KG)
 - Xgail: Explainable generative adversarial imitation learning for explainable human decision analysis
   - M. Pan, W. Huang, Y. Li, X. Zhou and J. Luo.  *SIGKDD 2020*.  [[paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403186)  [[code]](https://github.com/paperpublicsource/xgail)
 - The sensory neuron as a transformer: Permutation-invariant neural networks for reinforcement learning
-  - Y. Tang and D. Ha.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/be3e9d3f7d70537357c67bb3f4086846-Paper.pdf)  [[code]](https://paperswithcode.com/paper/the-sensory-neuron-as-a-transformer)
-(https://github.com/YunqiuXu/SHA-KG)
+  - Y. Tang and D. Ha.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/be3e9d3f7d70537357c67bb3f4086846-Paper.pdf)  [[code]](https://github.com/attentionneuron/attentionneuron.github.io)
 - Machine versus human attention in deep reinforcement learning tasks
   - S. Guo, R. Zhang, B. Liu, Y. Zhu, D. Ballard, M. Hayhoe and P. Stone.  *NeurIPS 2021*.  [[paper]](https://proceedings.neurips.cc/paper/2021/file/d58e2f077670f4de9cd7963c857f2534-Paper.pdf)
 - Training characteristic functions with reinforcement learning: Xai-methods play connect four
