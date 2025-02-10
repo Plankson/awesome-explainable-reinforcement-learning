@@ -144,10 +144,14 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - S. Ross, G. Gordon and D. Bagnell.  *JMLR 2011*.  [[paper]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)  [[code]](https://paperswithcode.com/paper/a-reduction-of-imitation-learning-and)
 
 #### Explanation Generating
+- Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis
+  - A Meulemans, S Schug, S Kobayashi and G Wayne.  *NeurIPS 2023*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/d8bd445c2abe1343cce0e14b361b2fb3-Paper-Conference.pdf)  [[code]](https://github.com/seijin-kobayashi/cocoa) 
 - Explainable Multi-Agent Reinforcement Learning for Temporal Queries
   - K. Boggess, S. Kraus and L. Feng.  *IJCAI 2023*.  [[paper]](https://arxiv.org/pdf/2305.10378)  [[code]](https://github.com/kjboggess/ijcai23)
 - Explainable Reinforcement Learning via a Causal World Model
   - Z. Yu, J. Ruan and D. Xing.  *IJCAI 2023*.  [[paper]](https://arxiv.org/pdf/2305.02749)  [[code]](https://github.com/EaseOnway/Explainable-Causal-Reinforcement-Learning)
+- “I Don’t Think So”: Summarizing Policy Disagreements for Agent Comparison
+  - Y Amita and O Amir.  *AAAI 2022*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20463)
 - A CEGAR-Driven Training and Verification Framework for Safe Deep Reinforcement Learning
   - P. Jin, J. Tian, D. Zhi, X. Wen and M. Zhang.  *CAV 2022*.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-13185-1_10)  [[code]](https://github.com/aptx4869tjx/RL_verification)
 - Toward Policy Explanations for Multi-Agent Reinforcement Learning
