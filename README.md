@@ -23,6 +23,7 @@ If you find this survey useful for your research, please consider citing
 }
 ```
 ## 🔥 News
+- [x] *2025.2.10:* We have updated our review paper with the latest revisions and incorporated newly published research from 2023 to 2024.
 - [x] *2023.11.01:* We have updated our review paper with the latest revisions and incorporated newly published research from 2022 to 2023.
 
 ## Table of Contents
@@ -94,8 +95,10 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 #### Self-**Explainable**
 
-
-
+- Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction
+  - Q Delfosse, H Shindo, D Dhami and K Kersting.  *NeurIPS 2023*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf)  [[code]](https://github.com/k4ntz/NUDGE)
+- Fuzzy centered explainable network for reinforcement learning
+  - L Ou, YC Chang, YK Wang and CT Lin.  *TFS 2023*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/10183374/)
 - MAVIPER: Learning Decision Tree Policies for Interpretable Multi-Agent Reinforcement Learning
   - S. Milani, Z. Zhang, N. Topin, Z. Shi, C. Kamhoua, E. Papalexakis and F. Fang.  *arXiv 2022*.  [[paper]](https://arxiv.org/pdf/2205.12449)  [[code]](https://stephmilani.github.io/maviper/)
 - Learning to synthesize programs as interpretable and generalizable policies
@@ -144,6 +147,8 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - S. Ross, G. Gordon and D. Bagnell.  *JMLR 2011*.  [[paper]](http://proceedings.mlr.press/v15/ross11a/ross11a.pdf)  [[code]](https://paperswithcode.com/paper/a-reduction-of-imitation-learning-and)
 
 #### Explanation Generating
+- Explaining reinforcement learning agents through counterfactual action outcomes
+  - Y Amitai, Y Septon and O Amir.  *AAAI 2024*   [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28863)  [[code]](https://github.com/yotamitai/COViz)
 - Would I have gotten that reward? Long-term credit assignment by counterfactual contribution analysis
   - A Meulemans, S Schug, S Kobayashi and G Wayne.  *NeurIPS 2023*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/d8bd445c2abe1343cce0e14b361b2fb3-Paper-Conference.pdf)  [[code]](https://github.com/seijin-kobayashi/cocoa) 
 - Explainable Multi-Agent Reinforcement Learning for Temporal Queries
@@ -180,6 +185,8 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 ### Reward Explaining
 
 #### Reward Decomposition
+- Visual imitation learning with patch rewards
+  - M Liu, T He, W Zhang, S Yan and Z Xu.  *ICLR 2023*.  [[paper]](https://arxiv.org/pdf/2302.00965)  [[code]](https://github.com/sail-sg/PatchAIL)
 - Shapley counterfactual credits for multi-agent reinforcement learning
   - J. Li, K. Kuang, B. Wang, F. Liu, L. Chen, F. Wu and J. Xiao.  *SIGKDD 2021*.  [[paper]](https://arxiv.org/pdf/2106.00285)  
 - Shapley Q-value: A local reward approach to solve global reward games
@@ -211,6 +218,10 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 ### State Explaining
 
 #### History Trajectory
+- Accountability in offline reinforcement learning: Explaining decisions with a corpus of examples
+  -  H Sun, A Hüyük, D Jarrett and M van der Schaar.   *NeurIPS 2023*  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/096b1019463f34eb241e87cfce8dfe16-Paper-Conference.pdf)  [[code]](https://github.com/orgs/vanderschaarlab/repositories/accountableofflinerl)
+- Explaining RL decisions with trajectories
+  -  SV Deshmukh, A Dasgupta and B Krishnamurthy et al.  *ICLR 2023*  [[paper]](https://arxiv.org/pdf/2305.04073)  [[code]](https://github.com/shripaddeshmukh/xrl_with_trajectories)
 - Towards interpretable deep reinforcement learning with human-friendly prototypes
   - EM. Kenny, M. Tucker and J. Shah.  *ICLR 2023*  [[paper]](https://openreview.net/pdf?id=hWwY_Jq0xsN)  [[code]](https://github.com/EoinKenny/Prototype-Wrapper-Network-ICLR23)
 - Collective explainable AI: Explaining cooperative strategies and agent contribution in multiagent reinforcement learning with shapley values
@@ -229,6 +240,8 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - J. Zheng, S. Liu and L. Ni.  *AAAI 2014*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/8979/8838)
 
 #### Current Observation
+- Explainable Deep Adversarial Reinforcement Learning Approach for Robust Autonomous Driving
+  - C Wang and N Aouf.  *TIV 2024*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/10475532)
 - Explaining reinforcement learning with shapley values
   - D. Beechey, TMS. Smith and Ö. Şimşek  *ICML 2023*.  [[paper]](https://proceedings.mlr.press/v202/beechey23a/beechey23a.pdf) [[code]](https://github.com/bath-reinforcement-learning-lab/SVERL_icml_2023)
 - Training characteristic functions with reinforcement learning: Xai-methods play connect four
@@ -270,6 +283,10 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 
 #### Future Prediction
+- Refining diffusion planner for reliable behavior synthesis by automatic detection of infeasible plans
+  - K Lee, S Kim and J Choi.  *NeurIPS 2023*  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/4c5722bad9759216474df8fc46c97af2-Paper-Conference.pdf) [[code]](https://github.com/leekwoon/rgg)
+- An explainable and robust motion planning and control approach for autonomous vehicle on-ramping mergingtask using deep reinforcement learning
+  - B Hu, L Jiang, S Zhang and Q Wang.  *TTE 2023*  [[paper]](https://ieeexplore.ieee.org/abstract/document/10374094/)
 - What did you think would happen? explaining agent behaviour through intended outcomes
   - H. Yau, C. Russell and S. Hadfield.  *NeurIPS 2020*.  [[paper]](https://proceedings.neurips.cc/paper/2020/file/d5ab8dc7ef67ca92e41d730982c5c602-Paper.pdf)  [[code]](https://paperswithcode.com/paper/what-did-you-think-would-happen-explaining#code)
 - Weakly-supervised reinforcement learning for controllable behavior
