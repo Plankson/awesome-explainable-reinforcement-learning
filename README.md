@@ -95,6 +95,14 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
 
 #### Self-**Explainable**
 
+- Selecting Decision-Relevant Concepts in Reinforcement Learning
+  - N. Raman, S. Milani and F. Fang.  *arXiv 2026*.  [[paper]](https://arxiv.org/abs/2604.04808)  [[code]](https://github.com/naveenr414/concept_decisions)
+- LICORICE: Label-Efficient Concept-Based Interpretable Reinforcement Learning
+  - Z. Ye, S. Milani, G. J. Gordon and F. Fang.  *ICLR 2025*.  [[paper]](https://arxiv.org/abs/2407.15786)  [[code]](https://github.com/cuizhuyefei/LICORICE)
+- Aligning Agent Policies with Preferences: Human-Centered Interpretable Reinforcement Learning
+  - S. Milani, Z. Zhang, N. Topin, L. Xia and F. Fang.  *AIES 2025*.  [[paper]](https://doi.org/10.1609/aies.v8i2.36668)
+- Making Teams and Influencing Agents: Efficiently Coordinating Decision Trees for Interpretable Multi-Agent Reinforcement Learning
+  - R. Chen, S. Milani, Z. Zhang, N. Sadeh and F. Fang.  *AIES 2025*.  [[paper]](https://arxiv.org/abs/2505.19316)
 - Interpretable and Explainable Logical Policies via Neurally Guided Symbolic Abstraction
   - Q Delfosse, H Shindo, D Dhami and K Kersting.  *NeurIPS 2023*.  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9f42f06a54ce3b709ad78d34c73e4363-Paper-Conference.pdf)  [[code]](https://github.com/k4ntz/NUDGE)
 - Fuzzy centered explainable network for reinforcement learning
@@ -240,6 +248,8 @@ To know more about existing XRL framework and our taxonomy, the existing XRL pap
   - J. Zheng, S. Liu and L. Ni.  *AAAI 2014*.  [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/8979/8838)
 
 #### Current Observation
+- Interpretability in Action: Exploratory Analysis of VPT, a Minecraft Agent
+  - K. Jucys, G. Adamopoulos, M. Hamidi, S. Milani, M. R. Samsami, A. Zholus, S. Joseph, B. Richards, I. Rish and Ö. Şimşek.  *ICML MI Workshop 2024*.  [[paper]](https://arxiv.org/abs/2407.12161)
 - Explainable Deep Adversarial Reinforcement Learning Approach for Robust Autonomous Driving
   - C Wang and N Aouf.  *TIV 2024*.  [[paper]](https://ieeexplore.ieee.org/abstract/document/10475532)
 - Explaining reinforcement learning with shapley values
